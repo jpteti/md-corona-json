@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "14",
+    "attributes": {
+      "name": "Howard",
+      "population": 299430,
+      "current-cases": 403
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/14/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 15
+          },
+          {
+            "type": "reports",
+            "id": 26
+          },
+          {
+            "type": "reports",
+            "id": 37
+          },
+          {
+            "type": "reports",
+            "id": 49
+          },
+          {
+            "type": "reports",
+            "id": 61
+          },
+          {
+            "type": "reports",
+            "id": 75
+          },
+          {
+            "type": "reports",
+            "id": 91
+          },
+          {
+            "type": "reports",
+            "id": 111
+          },
+          {
+            "type": "reports",
+            "id": 132
+          },
+          {
+            "type": "reports",
+            "id": 153
+          },
+          {
+            "type": "reports",
+            "id": 175
+          },
+          {
+            "type": "reports",
+            "id": 197
+          },
+          {
+            "type": "reports",
+            "id": 219
+          },
+          {
+            "type": "reports",
+            "id": 241
+          },
+          {
+            "type": "reports",
+            "id": 263
+          },
+          {
+            "type": "reports",
+            "id": 285
+          },
+          {
+            "type": "reports",
+            "id": 308
+          },
+          {
+            "type": "reports",
+            "id": 332
+          },
+          {
+            "type": "reports",
+            "id": 356
+          },
+          {
+            "type": "reports",
+            "id": 380
+          },
+          {
+            "type": "reports",
+            "id": 404
+          },
+          {
+            "type": "reports",
+            "id": 428
+          },
+          {
+            "type": "reports",
+            "id": 452
+          },
+          {
+            "type": "reports",
+            "id": 476
+          },
+          {
+            "type": "reports",
+            "id": 500
+          },
+          {
+            "type": "reports",
+            "id": 524
+          },
+          {
+            "type": "reports",
+            "id": 548
+          },
+          {
+            "type": "reports",
+            "id": 572
+          },
+          {
+            "type": "reports",
+            "id": 596
+          },
+          {
+            "type": "reports",
+            "id": 620
+          }
+        ]
+      }
+    }
+  }
+}

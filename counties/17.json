@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "17",
+    "attributes": {
+      "name": "Montgomery",
+      "population": 1004709,
+      "current-cases": 1883
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/17/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 8
+          },
+          {
+            "type": "reports",
+            "id": 17
+          },
+          {
+            "type": "reports",
+            "id": 28
+          },
+          {
+            "type": "reports",
+            "id": 39
+          },
+          {
+            "type": "reports",
+            "id": 51
+          },
+          {
+            "type": "reports",
+            "id": 63
+          },
+          {
+            "type": "reports",
+            "id": 77
+          },
+          {
+            "type": "reports",
+            "id": 93
+          },
+          {
+            "type": "reports",
+            "id": 113
+          },
+          {
+            "type": "reports",
+            "id": 134
+          },
+          {
+            "type": "reports",
+            "id": 156
+          },
+          {
+            "type": "reports",
+            "id": 178
+          },
+          {
+            "type": "reports",
+            "id": 200
+          },
+          {
+            "type": "reports",
+            "id": 222
+          },
+          {
+            "type": "reports",
+            "id": 244
+          },
+          {
+            "type": "reports",
+            "id": 266
+          },
+          {
+            "type": "reports",
+            "id": 288
+          },
+          {
+            "type": "reports",
+            "id": 311
+          },
+          {
+            "type": "reports",
+            "id": 335
+          },
+          {
+            "type": "reports",
+            "id": 359
+          },
+          {
+            "type": "reports",
+            "id": 383
+          },
+          {
+            "type": "reports",
+            "id": 407
+          },
+          {
+            "type": "reports",
+            "id": 431
+          },
+          {
+            "type": "reports",
+            "id": 455
+          },
+          {
+            "type": "reports",
+            "id": 479
+          },
+          {
+            "type": "reports",
+            "id": 503
+          },
+          {
+            "type": "reports",
+            "id": 527
+          },
+          {
+            "type": "reports",
+            "id": 551
+          },
+          {
+            "type": "reports",
+            "id": 575
+          },
+          {
+            "type": "reports",
+            "id": 599
+          },
+          {
+            "type": "reports",
+            "id": 623
+          }
+        ]
+      }
+    }
+  }
+}

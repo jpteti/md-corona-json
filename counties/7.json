@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "7",
+    "attributes": {
+      "name": "Carroll",
+      "population": 167217,
+      "current-cases": 259
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/7/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 4
+          },
+          {
+            "type": "reports",
+            "id": 12
+          },
+          {
+            "type": "reports",
+            "id": 22
+          },
+          {
+            "type": "reports",
+            "id": 33
+          },
+          {
+            "type": "reports",
+            "id": 45
+          },
+          {
+            "type": "reports",
+            "id": 57
+          },
+          {
+            "type": "reports",
+            "id": 71
+          },
+          {
+            "type": "reports",
+            "id": 86
+          },
+          {
+            "type": "reports",
+            "id": 105
+          },
+          {
+            "type": "reports",
+            "id": 126
+          },
+          {
+            "type": "reports",
+            "id": 147
+          },
+          {
+            "type": "reports",
+            "id": 169
+          },
+          {
+            "type": "reports",
+            "id": 191
+          },
+          {
+            "type": "reports",
+            "id": 213
+          },
+          {
+            "type": "reports",
+            "id": 235
+          },
+          {
+            "type": "reports",
+            "id": 257
+          },
+          {
+            "type": "reports",
+            "id": 279
+          },
+          {
+            "type": "reports",
+            "id": 301
+          },
+          {
+            "type": "reports",
+            "id": 325
+          },
+          {
+            "type": "reports",
+            "id": 349
+          },
+          {
+            "type": "reports",
+            "id": 373
+          },
+          {
+            "type": "reports",
+            "id": 397
+          },
+          {
+            "type": "reports",
+            "id": 421
+          },
+          {
+            "type": "reports",
+            "id": 445
+          },
+          {
+            "type": "reports",
+            "id": 469
+          },
+          {
+            "type": "reports",
+            "id": 493
+          },
+          {
+            "type": "reports",
+            "id": 517
+          },
+          {
+            "type": "reports",
+            "id": 541
+          },
+          {
+            "type": "reports",
+            "id": 565
+          },
+          {
+            "type": "reports",
+            "id": 589
+          },
+          {
+            "type": "reports",
+            "id": 613
+          }
+        ]
+      }
+    }
+  }
+}

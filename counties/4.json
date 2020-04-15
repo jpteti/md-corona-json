@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "4",
+    "attributes": {
+      "name": "Baltimore County",
+      "population": 817455,
+      "current-cases": 1377
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/4/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 3
+          },
+          {
+            "type": "reports",
+            "id": 11
+          },
+          {
+            "type": "reports",
+            "id": 21
+          },
+          {
+            "type": "reports",
+            "id": 32
+          },
+          {
+            "type": "reports",
+            "id": 43
+          },
+          {
+            "type": "reports",
+            "id": 55
+          },
+          {
+            "type": "reports",
+            "id": 69
+          },
+          {
+            "type": "reports",
+            "id": 83
+          },
+          {
+            "type": "reports",
+            "id": 102
+          },
+          {
+            "type": "reports",
+            "id": 123
+          },
+          {
+            "type": "reports",
+            "id": 144
+          },
+          {
+            "type": "reports",
+            "id": 166
+          },
+          {
+            "type": "reports",
+            "id": 188
+          },
+          {
+            "type": "reports",
+            "id": 210
+          },
+          {
+            "type": "reports",
+            "id": 232
+          },
+          {
+            "type": "reports",
+            "id": 254
+          },
+          {
+            "type": "reports",
+            "id": 276
+          },
+          {
+            "type": "reports",
+            "id": 298
+          },
+          {
+            "type": "reports",
+            "id": 322
+          },
+          {
+            "type": "reports",
+            "id": 346
+          },
+          {
+            "type": "reports",
+            "id": 370
+          },
+          {
+            "type": "reports",
+            "id": 394
+          },
+          {
+            "type": "reports",
+            "id": 418
+          },
+          {
+            "type": "reports",
+            "id": 442
+          },
+          {
+            "type": "reports",
+            "id": 466
+          },
+          {
+            "type": "reports",
+            "id": 490
+          },
+          {
+            "type": "reports",
+            "id": 514
+          },
+          {
+            "type": "reports",
+            "id": 538
+          },
+          {
+            "type": "reports",
+            "id": 562
+          },
+          {
+            "type": "reports",
+            "id": 586
+          },
+          {
+            "type": "reports",
+            "id": 610
+          }
+        ]
+      }
+    }
+  }
+}

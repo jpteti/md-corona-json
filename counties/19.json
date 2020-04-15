@@ -1,0 +1,116 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "19",
+    "attributes": {
+      "name": "Somerset",
+      "population": 26253,
+      "current-cases": 5
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/19/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 94
+          },
+          {
+            "type": "reports",
+            "id": 115
+          },
+          {
+            "type": "reports",
+            "id": 136
+          },
+          {
+            "type": "reports",
+            "id": 158
+          },
+          {
+            "type": "reports",
+            "id": 180
+          },
+          {
+            "type": "reports",
+            "id": 202
+          },
+          {
+            "type": "reports",
+            "id": 224
+          },
+          {
+            "type": "reports",
+            "id": 246
+          },
+          {
+            "type": "reports",
+            "id": 268
+          },
+          {
+            "type": "reports",
+            "id": 290
+          },
+          {
+            "type": "reports",
+            "id": 313
+          },
+          {
+            "type": "reports",
+            "id": 337
+          },
+          {
+            "type": "reports",
+            "id": 361
+          },
+          {
+            "type": "reports",
+            "id": 385
+          },
+          {
+            "type": "reports",
+            "id": 409
+          },
+          {
+            "type": "reports",
+            "id": 433
+          },
+          {
+            "type": "reports",
+            "id": 457
+          },
+          {
+            "type": "reports",
+            "id": 481
+          },
+          {
+            "type": "reports",
+            "id": 505
+          },
+          {
+            "type": "reports",
+            "id": 529
+          },
+          {
+            "type": "reports",
+            "id": 553
+          },
+          {
+            "type": "reports",
+            "id": 577
+          },
+          {
+            "type": "reports",
+            "id": 601
+          },
+          {
+            "type": "reports",
+            "id": 625
+          }
+        ]
+      }
+    }
+  }
+}

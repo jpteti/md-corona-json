@@ -1,0 +1,140 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "21",
+    "attributes": {
+      "name": "Talbot",
+      "population": 38098,
+      "current-cases": 16
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/21/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 18
+          },
+          {
+            "type": "reports",
+            "id": 29
+          },
+          {
+            "type": "reports",
+            "id": 40
+          },
+          {
+            "type": "reports",
+            "id": 52
+          },
+          {
+            "type": "reports",
+            "id": 64
+          },
+          {
+            "type": "reports",
+            "id": 78
+          },
+          {
+            "type": "reports",
+            "id": 96
+          },
+          {
+            "type": "reports",
+            "id": 117
+          },
+          {
+            "type": "reports",
+            "id": 138
+          },
+          {
+            "type": "reports",
+            "id": 160
+          },
+          {
+            "type": "reports",
+            "id": 182
+          },
+          {
+            "type": "reports",
+            "id": 204
+          },
+          {
+            "type": "reports",
+            "id": 226
+          },
+          {
+            "type": "reports",
+            "id": 248
+          },
+          {
+            "type": "reports",
+            "id": 270
+          },
+          {
+            "type": "reports",
+            "id": 292
+          },
+          {
+            "type": "reports",
+            "id": 315
+          },
+          {
+            "type": "reports",
+            "id": 339
+          },
+          {
+            "type": "reports",
+            "id": 363
+          },
+          {
+            "type": "reports",
+            "id": 387
+          },
+          {
+            "type": "reports",
+            "id": 411
+          },
+          {
+            "type": "reports",
+            "id": 435
+          },
+          {
+            "type": "reports",
+            "id": 459
+          },
+          {
+            "type": "reports",
+            "id": 483
+          },
+          {
+            "type": "reports",
+            "id": 507
+          },
+          {
+            "type": "reports",
+            "id": 531
+          },
+          {
+            "type": "reports",
+            "id": 555
+          },
+          {
+            "type": "reports",
+            "id": 579
+          },
+          {
+            "type": "reports",
+            "id": 603
+          },
+          {
+            "type": "reports",
+            "id": 627
+          }
+        ]
+      }
+    }
+  }
+}

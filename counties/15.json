@@ -1,0 +1,104 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "15",
+    "attributes": {
+      "name": "Kent",
+      "population": 20191,
+      "current-cases": 11
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/15/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 154
+          },
+          {
+            "type": "reports",
+            "id": 176
+          },
+          {
+            "type": "reports",
+            "id": 198
+          },
+          {
+            "type": "reports",
+            "id": 220
+          },
+          {
+            "type": "reports",
+            "id": 242
+          },
+          {
+            "type": "reports",
+            "id": 264
+          },
+          {
+            "type": "reports",
+            "id": 286
+          },
+          {
+            "type": "reports",
+            "id": 309
+          },
+          {
+            "type": "reports",
+            "id": 333
+          },
+          {
+            "type": "reports",
+            "id": 357
+          },
+          {
+            "type": "reports",
+            "id": 381
+          },
+          {
+            "type": "reports",
+            "id": 405
+          },
+          {
+            "type": "reports",
+            "id": 429
+          },
+          {
+            "type": "reports",
+            "id": 453
+          },
+          {
+            "type": "reports",
+            "id": 477
+          },
+          {
+            "type": "reports",
+            "id": 501
+          },
+          {
+            "type": "reports",
+            "id": 525
+          },
+          {
+            "type": "reports",
+            "id": 549
+          },
+          {
+            "type": "reports",
+            "id": 573
+          },
+          {
+            "type": "reports",
+            "id": 597
+          },
+          {
+            "type": "reports",
+            "id": 621
+          }
+        ]
+      }
+    }
+  }
+}

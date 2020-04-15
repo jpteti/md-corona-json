@@ -1,0 +1,124 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "24",
+    "attributes": {
+      "name": "Worcester",
+      "population": 51578,
+      "current-cases": 21
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/24/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 66
+          },
+          {
+            "type": "reports",
+            "id": 80
+          },
+          {
+            "type": "reports",
+            "id": 99
+          },
+          {
+            "type": "reports",
+            "id": 120
+          },
+          {
+            "type": "reports",
+            "id": 141
+          },
+          {
+            "type": "reports",
+            "id": 163
+          },
+          {
+            "type": "reports",
+            "id": 185
+          },
+          {
+            "type": "reports",
+            "id": 207
+          },
+          {
+            "type": "reports",
+            "id": 229
+          },
+          {
+            "type": "reports",
+            "id": 251
+          },
+          {
+            "type": "reports",
+            "id": 273
+          },
+          {
+            "type": "reports",
+            "id": 295
+          },
+          {
+            "type": "reports",
+            "id": 318
+          },
+          {
+            "type": "reports",
+            "id": 342
+          },
+          {
+            "type": "reports",
+            "id": 366
+          },
+          {
+            "type": "reports",
+            "id": 390
+          },
+          {
+            "type": "reports",
+            "id": 414
+          },
+          {
+            "type": "reports",
+            "id": 438
+          },
+          {
+            "type": "reports",
+            "id": 462
+          },
+          {
+            "type": "reports",
+            "id": 486
+          },
+          {
+            "type": "reports",
+            "id": 510
+          },
+          {
+            "type": "reports",
+            "id": 534
+          },
+          {
+            "type": "reports",
+            "id": 558
+          },
+          {
+            "type": "reports",
+            "id": 582
+          },
+          {
+            "type": "reports",
+            "id": 606
+          },
+          {
+            "type": "reports",
+            "id": 630
+          }
+        ]
+      }
+    }
+  }
+}

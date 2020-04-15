@@ -1,0 +1,2956 @@
+{
+  "data": [
+    {
+      "type": "counties",
+      "id": "1",
+      "attributes": {
+        "name": "Allegany",
+        "population": 74012,
+        "current-cases": 17
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/1/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 319
+            },
+            {
+              "type": "reports",
+              "id": 343
+            },
+            {
+              "type": "reports",
+              "id": 367
+            },
+            {
+              "type": "reports",
+              "id": 391
+            },
+            {
+              "type": "reports",
+              "id": 415
+            },
+            {
+              "type": "reports",
+              "id": 439
+            },
+            {
+              "type": "reports",
+              "id": 463
+            },
+            {
+              "type": "reports",
+              "id": 487
+            },
+            {
+              "type": "reports",
+              "id": 511
+            },
+            {
+              "type": "reports",
+              "id": 535
+            },
+            {
+              "type": "reports",
+              "id": 559
+            },
+            {
+              "type": "reports",
+              "id": 583
+            },
+            {
+              "type": "reports",
+              "id": 607
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "2",
+      "attributes": {
+        "name": "Anne Arundel",
+        "population": 550488,
+        "current-cases": 783
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/2/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 1
+            },
+            {
+              "type": "reports",
+              "id": 9
+            },
+            {
+              "type": "reports",
+              "id": 19
+            },
+            {
+              "type": "reports",
+              "id": 30
+            },
+            {
+              "type": "reports",
+              "id": 41
+            },
+            {
+              "type": "reports",
+              "id": 53
+            },
+            {
+              "type": "reports",
+              "id": 67
+            },
+            {
+              "type": "reports",
+              "id": 81
+            },
+            {
+              "type": "reports",
+              "id": 100
+            },
+            {
+              "type": "reports",
+              "id": 121
+            },
+            {
+              "type": "reports",
+              "id": 142
+            },
+            {
+              "type": "reports",
+              "id": 164
+            },
+            {
+              "type": "reports",
+              "id": 186
+            },
+            {
+              "type": "reports",
+              "id": 208
+            },
+            {
+              "type": "reports",
+              "id": 230
+            },
+            {
+              "type": "reports",
+              "id": 252
+            },
+            {
+              "type": "reports",
+              "id": 274
+            },
+            {
+              "type": "reports",
+              "id": 296
+            },
+            {
+              "type": "reports",
+              "id": 320
+            },
+            {
+              "type": "reports",
+              "id": 344
+            },
+            {
+              "type": "reports",
+              "id": 368
+            },
+            {
+              "type": "reports",
+              "id": 392
+            },
+            {
+              "type": "reports",
+              "id": 416
+            },
+            {
+              "type": "reports",
+              "id": 440
+            },
+            {
+              "type": "reports",
+              "id": 464
+            },
+            {
+              "type": "reports",
+              "id": 488
+            },
+            {
+              "type": "reports",
+              "id": 512
+            },
+            {
+              "type": "reports",
+              "id": 536
+            },
+            {
+              "type": "reports",
+              "id": 560
+            },
+            {
+              "type": "reports",
+              "id": 584
+            },
+            {
+              "type": "reports",
+              "id": 608
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "3",
+      "attributes": {
+        "name": "Baltimore City",
+        "population": 621342,
+        "current-cases": 962
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/3/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 2
+            },
+            {
+              "type": "reports",
+              "id": 10
+            },
+            {
+              "type": "reports",
+              "id": 20
+            },
+            {
+              "type": "reports",
+              "id": 31
+            },
+            {
+              "type": "reports",
+              "id": 42
+            },
+            {
+              "type": "reports",
+              "id": 54
+            },
+            {
+              "type": "reports",
+              "id": 68
+            },
+            {
+              "type": "reports",
+              "id": 82
+            },
+            {
+              "type": "reports",
+              "id": 101
+            },
+            {
+              "type": "reports",
+              "id": 122
+            },
+            {
+              "type": "reports",
+              "id": 143
+            },
+            {
+              "type": "reports",
+              "id": 165
+            },
+            {
+              "type": "reports",
+              "id": 187
+            },
+            {
+              "type": "reports",
+              "id": 209
+            },
+            {
+              "type": "reports",
+              "id": 231
+            },
+            {
+              "type": "reports",
+              "id": 253
+            },
+            {
+              "type": "reports",
+              "id": 275
+            },
+            {
+              "type": "reports",
+              "id": 297
+            },
+            {
+              "type": "reports",
+              "id": 321
+            },
+            {
+              "type": "reports",
+              "id": 345
+            },
+            {
+              "type": "reports",
+              "id": 369
+            },
+            {
+              "type": "reports",
+              "id": 393
+            },
+            {
+              "type": "reports",
+              "id": 417
+            },
+            {
+              "type": "reports",
+              "id": 441
+            },
+            {
+              "type": "reports",
+              "id": 465
+            },
+            {
+              "type": "reports",
+              "id": 489
+            },
+            {
+              "type": "reports",
+              "id": 513
+            },
+            {
+              "type": "reports",
+              "id": 537
+            },
+            {
+              "type": "reports",
+              "id": 561
+            },
+            {
+              "type": "reports",
+              "id": 585
+            },
+            {
+              "type": "reports",
+              "id": 609
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "4",
+      "attributes": {
+        "name": "Baltimore County",
+        "population": 817455,
+        "current-cases": 1377
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/4/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 3
+            },
+            {
+              "type": "reports",
+              "id": 11
+            },
+            {
+              "type": "reports",
+              "id": 21
+            },
+            {
+              "type": "reports",
+              "id": 32
+            },
+            {
+              "type": "reports",
+              "id": 43
+            },
+            {
+              "type": "reports",
+              "id": 55
+            },
+            {
+              "type": "reports",
+              "id": 69
+            },
+            {
+              "type": "reports",
+              "id": 83
+            },
+            {
+              "type": "reports",
+              "id": 102
+            },
+            {
+              "type": "reports",
+              "id": 123
+            },
+            {
+              "type": "reports",
+              "id": 144
+            },
+            {
+              "type": "reports",
+              "id": 166
+            },
+            {
+              "type": "reports",
+              "id": 188
+            },
+            {
+              "type": "reports",
+              "id": 210
+            },
+            {
+              "type": "reports",
+              "id": 232
+            },
+            {
+              "type": "reports",
+              "id": 254
+            },
+            {
+              "type": "reports",
+              "id": 276
+            },
+            {
+              "type": "reports",
+              "id": 298
+            },
+            {
+              "type": "reports",
+              "id": 322
+            },
+            {
+              "type": "reports",
+              "id": 346
+            },
+            {
+              "type": "reports",
+              "id": 370
+            },
+            {
+              "type": "reports",
+              "id": 394
+            },
+            {
+              "type": "reports",
+              "id": 418
+            },
+            {
+              "type": "reports",
+              "id": 442
+            },
+            {
+              "type": "reports",
+              "id": 466
+            },
+            {
+              "type": "reports",
+              "id": 490
+            },
+            {
+              "type": "reports",
+              "id": 514
+            },
+            {
+              "type": "reports",
+              "id": 538
+            },
+            {
+              "type": "reports",
+              "id": 562
+            },
+            {
+              "type": "reports",
+              "id": 586
+            },
+            {
+              "type": "reports",
+              "id": 610
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "5",
+      "attributes": {
+        "name": "Calvert",
+        "population": 89628,
+        "current-cases": 99
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/5/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 44
+            },
+            {
+              "type": "reports",
+              "id": 56
+            },
+            {
+              "type": "reports",
+              "id": 70
+            },
+            {
+              "type": "reports",
+              "id": 84
+            },
+            {
+              "type": "reports",
+              "id": 103
+            },
+            {
+              "type": "reports",
+              "id": 124
+            },
+            {
+              "type": "reports",
+              "id": 145
+            },
+            {
+              "type": "reports",
+              "id": 167
+            },
+            {
+              "type": "reports",
+              "id": 189
+            },
+            {
+              "type": "reports",
+              "id": 211
+            },
+            {
+              "type": "reports",
+              "id": 233
+            },
+            {
+              "type": "reports",
+              "id": 255
+            },
+            {
+              "type": "reports",
+              "id": 277
+            },
+            {
+              "type": "reports",
+              "id": 299
+            },
+            {
+              "type": "reports",
+              "id": 323
+            },
+            {
+              "type": "reports",
+              "id": 347
+            },
+            {
+              "type": "reports",
+              "id": 371
+            },
+            {
+              "type": "reports",
+              "id": 395
+            },
+            {
+              "type": "reports",
+              "id": 419
+            },
+            {
+              "type": "reports",
+              "id": 443
+            },
+            {
+              "type": "reports",
+              "id": 467
+            },
+            {
+              "type": "reports",
+              "id": 491
+            },
+            {
+              "type": "reports",
+              "id": 515
+            },
+            {
+              "type": "reports",
+              "id": 539
+            },
+            {
+              "type": "reports",
+              "id": 563
+            },
+            {
+              "type": "reports",
+              "id": 587
+            },
+            {
+              "type": "reports",
+              "id": 611
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "6",
+      "attributes": {
+        "name": "Caroline",
+        "population": 32718,
+        "current-cases": 21
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/6/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 85
+            },
+            {
+              "type": "reports",
+              "id": 104
+            },
+            {
+              "type": "reports",
+              "id": 125
+            },
+            {
+              "type": "reports",
+              "id": 146
+            },
+            {
+              "type": "reports",
+              "id": 168
+            },
+            {
+              "type": "reports",
+              "id": 190
+            },
+            {
+              "type": "reports",
+              "id": 212
+            },
+            {
+              "type": "reports",
+              "id": 234
+            },
+            {
+              "type": "reports",
+              "id": 256
+            },
+            {
+              "type": "reports",
+              "id": 278
+            },
+            {
+              "type": "reports",
+              "id": 300
+            },
+            {
+              "type": "reports",
+              "id": 324
+            },
+            {
+              "type": "reports",
+              "id": 348
+            },
+            {
+              "type": "reports",
+              "id": 372
+            },
+            {
+              "type": "reports",
+              "id": 396
+            },
+            {
+              "type": "reports",
+              "id": 420
+            },
+            {
+              "type": "reports",
+              "id": 444
+            },
+            {
+              "type": "reports",
+              "id": 468
+            },
+            {
+              "type": "reports",
+              "id": 492
+            },
+            {
+              "type": "reports",
+              "id": 516
+            },
+            {
+              "type": "reports",
+              "id": 540
+            },
+            {
+              "type": "reports",
+              "id": 564
+            },
+            {
+              "type": "reports",
+              "id": 588
+            },
+            {
+              "type": "reports",
+              "id": 612
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "7",
+      "attributes": {
+        "name": "Carroll",
+        "population": 167217,
+        "current-cases": 259
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/7/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 4
+            },
+            {
+              "type": "reports",
+              "id": 12
+            },
+            {
+              "type": "reports",
+              "id": 22
+            },
+            {
+              "type": "reports",
+              "id": 33
+            },
+            {
+              "type": "reports",
+              "id": 45
+            },
+            {
+              "type": "reports",
+              "id": 57
+            },
+            {
+              "type": "reports",
+              "id": 71
+            },
+            {
+              "type": "reports",
+              "id": 86
+            },
+            {
+              "type": "reports",
+              "id": 105
+            },
+            {
+              "type": "reports",
+              "id": 126
+            },
+            {
+              "type": "reports",
+              "id": 147
+            },
+            {
+              "type": "reports",
+              "id": 169
+            },
+            {
+              "type": "reports",
+              "id": 191
+            },
+            {
+              "type": "reports",
+              "id": 213
+            },
+            {
+              "type": "reports",
+              "id": 235
+            },
+            {
+              "type": "reports",
+              "id": 257
+            },
+            {
+              "type": "reports",
+              "id": 279
+            },
+            {
+              "type": "reports",
+              "id": 301
+            },
+            {
+              "type": "reports",
+              "id": 325
+            },
+            {
+              "type": "reports",
+              "id": 349
+            },
+            {
+              "type": "reports",
+              "id": 373
+            },
+            {
+              "type": "reports",
+              "id": 397
+            },
+            {
+              "type": "reports",
+              "id": 421
+            },
+            {
+              "type": "reports",
+              "id": 445
+            },
+            {
+              "type": "reports",
+              "id": 469
+            },
+            {
+              "type": "reports",
+              "id": 493
+            },
+            {
+              "type": "reports",
+              "id": 517
+            },
+            {
+              "type": "reports",
+              "id": 541
+            },
+            {
+              "type": "reports",
+              "id": 565
+            },
+            {
+              "type": "reports",
+              "id": 589
+            },
+            {
+              "type": "reports",
+              "id": 613
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "8",
+      "attributes": {
+        "name": "Cecil",
+        "population": 101696,
+        "current-cases": 85
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/8/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 87
+            },
+            {
+              "type": "reports",
+              "id": 106
+            },
+            {
+              "type": "reports",
+              "id": 127
+            },
+            {
+              "type": "reports",
+              "id": 148
+            },
+            {
+              "type": "reports",
+              "id": 170
+            },
+            {
+              "type": "reports",
+              "id": 192
+            },
+            {
+              "type": "reports",
+              "id": 214
+            },
+            {
+              "type": "reports",
+              "id": 236
+            },
+            {
+              "type": "reports",
+              "id": 258
+            },
+            {
+              "type": "reports",
+              "id": 280
+            },
+            {
+              "type": "reports",
+              "id": 302
+            },
+            {
+              "type": "reports",
+              "id": 326
+            },
+            {
+              "type": "reports",
+              "id": 350
+            },
+            {
+              "type": "reports",
+              "id": 374
+            },
+            {
+              "type": "reports",
+              "id": 398
+            },
+            {
+              "type": "reports",
+              "id": 422
+            },
+            {
+              "type": "reports",
+              "id": 446
+            },
+            {
+              "type": "reports",
+              "id": 470
+            },
+            {
+              "type": "reports",
+              "id": 494
+            },
+            {
+              "type": "reports",
+              "id": 518
+            },
+            {
+              "type": "reports",
+              "id": 542
+            },
+            {
+              "type": "reports",
+              "id": 566
+            },
+            {
+              "type": "reports",
+              "id": 590
+            },
+            {
+              "type": "reports",
+              "id": 614
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "9",
+      "attributes": {
+        "name": "Charles",
+        "population": 150592,
+        "current-cases": 292
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/9/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 5
+            },
+            {
+              "type": "reports",
+              "id": 13
+            },
+            {
+              "type": "reports",
+              "id": 23
+            },
+            {
+              "type": "reports",
+              "id": 34
+            },
+            {
+              "type": "reports",
+              "id": 46
+            },
+            {
+              "type": "reports",
+              "id": 58
+            },
+            {
+              "type": "reports",
+              "id": 72
+            },
+            {
+              "type": "reports",
+              "id": 88
+            },
+            {
+              "type": "reports",
+              "id": 107
+            },
+            {
+              "type": "reports",
+              "id": 128
+            },
+            {
+              "type": "reports",
+              "id": 149
+            },
+            {
+              "type": "reports",
+              "id": 171
+            },
+            {
+              "type": "reports",
+              "id": 193
+            },
+            {
+              "type": "reports",
+              "id": 215
+            },
+            {
+              "type": "reports",
+              "id": 237
+            },
+            {
+              "type": "reports",
+              "id": 259
+            },
+            {
+              "type": "reports",
+              "id": 281
+            },
+            {
+              "type": "reports",
+              "id": 303
+            },
+            {
+              "type": "reports",
+              "id": 327
+            },
+            {
+              "type": "reports",
+              "id": 351
+            },
+            {
+              "type": "reports",
+              "id": 375
+            },
+            {
+              "type": "reports",
+              "id": 399
+            },
+            {
+              "type": "reports",
+              "id": 423
+            },
+            {
+              "type": "reports",
+              "id": 447
+            },
+            {
+              "type": "reports",
+              "id": 471
+            },
+            {
+              "type": "reports",
+              "id": 495
+            },
+            {
+              "type": "reports",
+              "id": 519
+            },
+            {
+              "type": "reports",
+              "id": 543
+            },
+            {
+              "type": "reports",
+              "id": 567
+            },
+            {
+              "type": "reports",
+              "id": 591
+            },
+            {
+              "type": "reports",
+              "id": 615
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "10",
+      "attributes": {
+        "name": "Dorchester",
+        "population": 32551,
+        "current-cases": 14
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 304
+            },
+            {
+              "type": "reports",
+              "id": 328
+            },
+            {
+              "type": "reports",
+              "id": 352
+            },
+            {
+              "type": "reports",
+              "id": 376
+            },
+            {
+              "type": "reports",
+              "id": 400
+            },
+            {
+              "type": "reports",
+              "id": 424
+            },
+            {
+              "type": "reports",
+              "id": 448
+            },
+            {
+              "type": "reports",
+              "id": 472
+            },
+            {
+              "type": "reports",
+              "id": 496
+            },
+            {
+              "type": "reports",
+              "id": 520
+            },
+            {
+              "type": "reports",
+              "id": 544
+            },
+            {
+              "type": "reports",
+              "id": 568
+            },
+            {
+              "type": "reports",
+              "id": 592
+            },
+            {
+              "type": "reports",
+              "id": 616
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "11",
+      "attributes": {
+        "name": "Frederick",
+        "population": 239582,
+        "current-cases": 441
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/11/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 24
+            },
+            {
+              "type": "reports",
+              "id": 35
+            },
+            {
+              "type": "reports",
+              "id": 47
+            },
+            {
+              "type": "reports",
+              "id": 59
+            },
+            {
+              "type": "reports",
+              "id": 73
+            },
+            {
+              "type": "reports",
+              "id": 89
+            },
+            {
+              "type": "reports",
+              "id": 108
+            },
+            {
+              "type": "reports",
+              "id": 129
+            },
+            {
+              "type": "reports",
+              "id": 150
+            },
+            {
+              "type": "reports",
+              "id": 172
+            },
+            {
+              "type": "reports",
+              "id": 194
+            },
+            {
+              "type": "reports",
+              "id": 216
+            },
+            {
+              "type": "reports",
+              "id": 238
+            },
+            {
+              "type": "reports",
+              "id": 260
+            },
+            {
+              "type": "reports",
+              "id": 282
+            },
+            {
+              "type": "reports",
+              "id": 305
+            },
+            {
+              "type": "reports",
+              "id": 329
+            },
+            {
+              "type": "reports",
+              "id": 353
+            },
+            {
+              "type": "reports",
+              "id": 377
+            },
+            {
+              "type": "reports",
+              "id": 401
+            },
+            {
+              "type": "reports",
+              "id": 425
+            },
+            {
+              "type": "reports",
+              "id": 449
+            },
+            {
+              "type": "reports",
+              "id": 473
+            },
+            {
+              "type": "reports",
+              "id": 497
+            },
+            {
+              "type": "reports",
+              "id": 521
+            },
+            {
+              "type": "reports",
+              "id": 545
+            },
+            {
+              "type": "reports",
+              "id": 569
+            },
+            {
+              "type": "reports",
+              "id": 593
+            },
+            {
+              "type": "reports",
+              "id": 617
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "12",
+      "attributes": {
+        "name": "Garrett",
+        "population": 29854,
+        "current-cases": 4
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/12/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 109
+            },
+            {
+              "type": "reports",
+              "id": 130
+            },
+            {
+              "type": "reports",
+              "id": 151
+            },
+            {
+              "type": "reports",
+              "id": 173
+            },
+            {
+              "type": "reports",
+              "id": 195
+            },
+            {
+              "type": "reports",
+              "id": 217
+            },
+            {
+              "type": "reports",
+              "id": 239
+            },
+            {
+              "type": "reports",
+              "id": 261
+            },
+            {
+              "type": "reports",
+              "id": 283
+            },
+            {
+              "type": "reports",
+              "id": 306
+            },
+            {
+              "type": "reports",
+              "id": 330
+            },
+            {
+              "type": "reports",
+              "id": 354
+            },
+            {
+              "type": "reports",
+              "id": 378
+            },
+            {
+              "type": "reports",
+              "id": 402
+            },
+            {
+              "type": "reports",
+              "id": 426
+            },
+            {
+              "type": "reports",
+              "id": 450
+            },
+            {
+              "type": "reports",
+              "id": 474
+            },
+            {
+              "type": "reports",
+              "id": 498
+            },
+            {
+              "type": "reports",
+              "id": 522
+            },
+            {
+              "type": "reports",
+              "id": 546
+            },
+            {
+              "type": "reports",
+              "id": 570
+            },
+            {
+              "type": "reports",
+              "id": 594
+            },
+            {
+              "type": "reports",
+              "id": 618
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "13",
+      "attributes": {
+        "name": "Harford",
+        "population": 248622,
+        "current-cases": 147
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/13/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 6
+            },
+            {
+              "type": "reports",
+              "id": 14
+            },
+            {
+              "type": "reports",
+              "id": 25
+            },
+            {
+              "type": "reports",
+              "id": 36
+            },
+            {
+              "type": "reports",
+              "id": 48
+            },
+            {
+              "type": "reports",
+              "id": 60
+            },
+            {
+              "type": "reports",
+              "id": 74
+            },
+            {
+              "type": "reports",
+              "id": 90
+            },
+            {
+              "type": "reports",
+              "id": 110
+            },
+            {
+              "type": "reports",
+              "id": 131
+            },
+            {
+              "type": "reports",
+              "id": 152
+            },
+            {
+              "type": "reports",
+              "id": 174
+            },
+            {
+              "type": "reports",
+              "id": 196
+            },
+            {
+              "type": "reports",
+              "id": 218
+            },
+            {
+              "type": "reports",
+              "id": 240
+            },
+            {
+              "type": "reports",
+              "id": 262
+            },
+            {
+              "type": "reports",
+              "id": 284
+            },
+            {
+              "type": "reports",
+              "id": 307
+            },
+            {
+              "type": "reports",
+              "id": 331
+            },
+            {
+              "type": "reports",
+              "id": 355
+            },
+            {
+              "type": "reports",
+              "id": 379
+            },
+            {
+              "type": "reports",
+              "id": 403
+            },
+            {
+              "type": "reports",
+              "id": 427
+            },
+            {
+              "type": "reports",
+              "id": 451
+            },
+            {
+              "type": "reports",
+              "id": 475
+            },
+            {
+              "type": "reports",
+              "id": 499
+            },
+            {
+              "type": "reports",
+              "id": 523
+            },
+            {
+              "type": "reports",
+              "id": 547
+            },
+            {
+              "type": "reports",
+              "id": 571
+            },
+            {
+              "type": "reports",
+              "id": 595
+            },
+            {
+              "type": "reports",
+              "id": 619
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "14",
+      "attributes": {
+        "name": "Howard",
+        "population": 299430,
+        "current-cases": 403
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/14/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 15
+            },
+            {
+              "type": "reports",
+              "id": 26
+            },
+            {
+              "type": "reports",
+              "id": 37
+            },
+            {
+              "type": "reports",
+              "id": 49
+            },
+            {
+              "type": "reports",
+              "id": 61
+            },
+            {
+              "type": "reports",
+              "id": 75
+            },
+            {
+              "type": "reports",
+              "id": 91
+            },
+            {
+              "type": "reports",
+              "id": 111
+            },
+            {
+              "type": "reports",
+              "id": 132
+            },
+            {
+              "type": "reports",
+              "id": 153
+            },
+            {
+              "type": "reports",
+              "id": 175
+            },
+            {
+              "type": "reports",
+              "id": 197
+            },
+            {
+              "type": "reports",
+              "id": 219
+            },
+            {
+              "type": "reports",
+              "id": 241
+            },
+            {
+              "type": "reports",
+              "id": 263
+            },
+            {
+              "type": "reports",
+              "id": 285
+            },
+            {
+              "type": "reports",
+              "id": 308
+            },
+            {
+              "type": "reports",
+              "id": 332
+            },
+            {
+              "type": "reports",
+              "id": 356
+            },
+            {
+              "type": "reports",
+              "id": 380
+            },
+            {
+              "type": "reports",
+              "id": 404
+            },
+            {
+              "type": "reports",
+              "id": 428
+            },
+            {
+              "type": "reports",
+              "id": 452
+            },
+            {
+              "type": "reports",
+              "id": 476
+            },
+            {
+              "type": "reports",
+              "id": 500
+            },
+            {
+              "type": "reports",
+              "id": 524
+            },
+            {
+              "type": "reports",
+              "id": 548
+            },
+            {
+              "type": "reports",
+              "id": 572
+            },
+            {
+              "type": "reports",
+              "id": 596
+            },
+            {
+              "type": "reports",
+              "id": 620
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "15",
+      "attributes": {
+        "name": "Kent",
+        "population": 20191,
+        "current-cases": 11
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/15/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 154
+            },
+            {
+              "type": "reports",
+              "id": 176
+            },
+            {
+              "type": "reports",
+              "id": 198
+            },
+            {
+              "type": "reports",
+              "id": 220
+            },
+            {
+              "type": "reports",
+              "id": 242
+            },
+            {
+              "type": "reports",
+              "id": 264
+            },
+            {
+              "type": "reports",
+              "id": 286
+            },
+            {
+              "type": "reports",
+              "id": 309
+            },
+            {
+              "type": "reports",
+              "id": 333
+            },
+            {
+              "type": "reports",
+              "id": 357
+            },
+            {
+              "type": "reports",
+              "id": 381
+            },
+            {
+              "type": "reports",
+              "id": 405
+            },
+            {
+              "type": "reports",
+              "id": 429
+            },
+            {
+              "type": "reports",
+              "id": 453
+            },
+            {
+              "type": "reports",
+              "id": 477
+            },
+            {
+              "type": "reports",
+              "id": 501
+            },
+            {
+              "type": "reports",
+              "id": 525
+            },
+            {
+              "type": "reports",
+              "id": 549
+            },
+            {
+              "type": "reports",
+              "id": 573
+            },
+            {
+              "type": "reports",
+              "id": 597
+            },
+            {
+              "type": "reports",
+              "id": 621
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "16",
+      "attributes": {
+        "name": "Prince George's",
+        "population": 881138,
+        "current-cases": 2356
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/16/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 7
+            },
+            {
+              "type": "reports",
+              "id": 16
+            },
+            {
+              "type": "reports",
+              "id": 27
+            },
+            {
+              "type": "reports",
+              "id": 38
+            },
+            {
+              "type": "reports",
+              "id": 50
+            },
+            {
+              "type": "reports",
+              "id": 62
+            },
+            {
+              "type": "reports",
+              "id": 76
+            },
+            {
+              "type": "reports",
+              "id": 92
+            },
+            {
+              "type": "reports",
+              "id": 112
+            },
+            {
+              "type": "reports",
+              "id": 133
+            },
+            {
+              "type": "reports",
+              "id": 155
+            },
+            {
+              "type": "reports",
+              "id": 177
+            },
+            {
+              "type": "reports",
+              "id": 199
+            },
+            {
+              "type": "reports",
+              "id": 221
+            },
+            {
+              "type": "reports",
+              "id": 243
+            },
+            {
+              "type": "reports",
+              "id": 265
+            },
+            {
+              "type": "reports",
+              "id": 287
+            },
+            {
+              "type": "reports",
+              "id": 310
+            },
+            {
+              "type": "reports",
+              "id": 334
+            },
+            {
+              "type": "reports",
+              "id": 358
+            },
+            {
+              "type": "reports",
+              "id": 382
+            },
+            {
+              "type": "reports",
+              "id": 406
+            },
+            {
+              "type": "reports",
+              "id": 430
+            },
+            {
+              "type": "reports",
+              "id": 454
+            },
+            {
+              "type": "reports",
+              "id": 478
+            },
+            {
+              "type": "reports",
+              "id": 502
+            },
+            {
+              "type": "reports",
+              "id": 526
+            },
+            {
+              "type": "reports",
+              "id": 550
+            },
+            {
+              "type": "reports",
+              "id": 574
+            },
+            {
+              "type": "reports",
+              "id": 598
+            },
+            {
+              "type": "reports",
+              "id": 622
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "17",
+      "attributes": {
+        "name": "Montgomery",
+        "population": 1004709,
+        "current-cases": 1883
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/17/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 8
+            },
+            {
+              "type": "reports",
+              "id": 17
+            },
+            {
+              "type": "reports",
+              "id": 28
+            },
+            {
+              "type": "reports",
+              "id": 39
+            },
+            {
+              "type": "reports",
+              "id": 51
+            },
+            {
+              "type": "reports",
+              "id": 63
+            },
+            {
+              "type": "reports",
+              "id": 77
+            },
+            {
+              "type": "reports",
+              "id": 93
+            },
+            {
+              "type": "reports",
+              "id": 113
+            },
+            {
+              "type": "reports",
+              "id": 134
+            },
+            {
+              "type": "reports",
+              "id": 156
+            },
+            {
+              "type": "reports",
+              "id": 178
+            },
+            {
+              "type": "reports",
+              "id": 200
+            },
+            {
+              "type": "reports",
+              "id": 222
+            },
+            {
+              "type": "reports",
+              "id": 244
+            },
+            {
+              "type": "reports",
+              "id": 266
+            },
+            {
+              "type": "reports",
+              "id": 288
+            },
+            {
+              "type": "reports",
+              "id": 311
+            },
+            {
+              "type": "reports",
+              "id": 335
+            },
+            {
+              "type": "reports",
+              "id": 359
+            },
+            {
+              "type": "reports",
+              "id": 383
+            },
+            {
+              "type": "reports",
+              "id": 407
+            },
+            {
+              "type": "reports",
+              "id": 431
+            },
+            {
+              "type": "reports",
+              "id": 455
+            },
+            {
+              "type": "reports",
+              "id": 479
+            },
+            {
+              "type": "reports",
+              "id": 503
+            },
+            {
+              "type": "reports",
+              "id": 527
+            },
+            {
+              "type": "reports",
+              "id": 551
+            },
+            {
+              "type": "reports",
+              "id": 575
+            },
+            {
+              "type": "reports",
+              "id": 599
+            },
+            {
+              "type": "reports",
+              "id": 623
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "18",
+      "attributes": {
+        "name": "Queen Anne's",
+        "population": 48595,
+        "current-cases": 19
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/18/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 114
+            },
+            {
+              "type": "reports",
+              "id": 135
+            },
+            {
+              "type": "reports",
+              "id": 157
+            },
+            {
+              "type": "reports",
+              "id": 179
+            },
+            {
+              "type": "reports",
+              "id": 201
+            },
+            {
+              "type": "reports",
+              "id": 223
+            },
+            {
+              "type": "reports",
+              "id": 245
+            },
+            {
+              "type": "reports",
+              "id": 267
+            },
+            {
+              "type": "reports",
+              "id": 289
+            },
+            {
+              "type": "reports",
+              "id": 312
+            },
+            {
+              "type": "reports",
+              "id": 336
+            },
+            {
+              "type": "reports",
+              "id": 360
+            },
+            {
+              "type": "reports",
+              "id": 384
+            },
+            {
+              "type": "reports",
+              "id": 408
+            },
+            {
+              "type": "reports",
+              "id": 432
+            },
+            {
+              "type": "reports",
+              "id": 456
+            },
+            {
+              "type": "reports",
+              "id": 480
+            },
+            {
+              "type": "reports",
+              "id": 504
+            },
+            {
+              "type": "reports",
+              "id": 528
+            },
+            {
+              "type": "reports",
+              "id": 552
+            },
+            {
+              "type": "reports",
+              "id": 576
+            },
+            {
+              "type": "reports",
+              "id": 600
+            },
+            {
+              "type": "reports",
+              "id": 624
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "19",
+      "attributes": {
+        "name": "Somerset",
+        "population": 26253,
+        "current-cases": 5
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/19/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 94
+            },
+            {
+              "type": "reports",
+              "id": 115
+            },
+            {
+              "type": "reports",
+              "id": 136
+            },
+            {
+              "type": "reports",
+              "id": 158
+            },
+            {
+              "type": "reports",
+              "id": 180
+            },
+            {
+              "type": "reports",
+              "id": 202
+            },
+            {
+              "type": "reports",
+              "id": 224
+            },
+            {
+              "type": "reports",
+              "id": 246
+            },
+            {
+              "type": "reports",
+              "id": 268
+            },
+            {
+              "type": "reports",
+              "id": 290
+            },
+            {
+              "type": "reports",
+              "id": 313
+            },
+            {
+              "type": "reports",
+              "id": 337
+            },
+            {
+              "type": "reports",
+              "id": 361
+            },
+            {
+              "type": "reports",
+              "id": 385
+            },
+            {
+              "type": "reports",
+              "id": 409
+            },
+            {
+              "type": "reports",
+              "id": 433
+            },
+            {
+              "type": "reports",
+              "id": 457
+            },
+            {
+              "type": "reports",
+              "id": 481
+            },
+            {
+              "type": "reports",
+              "id": 505
+            },
+            {
+              "type": "reports",
+              "id": 529
+            },
+            {
+              "type": "reports",
+              "id": 553
+            },
+            {
+              "type": "reports",
+              "id": 577
+            },
+            {
+              "type": "reports",
+              "id": 601
+            },
+            {
+              "type": "reports",
+              "id": 625
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "20",
+      "attributes": {
+        "name": "St. Mary's",
+        "population": 108987,
+        "current-cases": 98
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/20/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 95
+            },
+            {
+              "type": "reports",
+              "id": 116
+            },
+            {
+              "type": "reports",
+              "id": 137
+            },
+            {
+              "type": "reports",
+              "id": 159
+            },
+            {
+              "type": "reports",
+              "id": 181
+            },
+            {
+              "type": "reports",
+              "id": 203
+            },
+            {
+              "type": "reports",
+              "id": 225
+            },
+            {
+              "type": "reports",
+              "id": 247
+            },
+            {
+              "type": "reports",
+              "id": 269
+            },
+            {
+              "type": "reports",
+              "id": 291
+            },
+            {
+              "type": "reports",
+              "id": 314
+            },
+            {
+              "type": "reports",
+              "id": 338
+            },
+            {
+              "type": "reports",
+              "id": 362
+            },
+            {
+              "type": "reports",
+              "id": 386
+            },
+            {
+              "type": "reports",
+              "id": 410
+            },
+            {
+              "type": "reports",
+              "id": 434
+            },
+            {
+              "type": "reports",
+              "id": 458
+            },
+            {
+              "type": "reports",
+              "id": 482
+            },
+            {
+              "type": "reports",
+              "id": 506
+            },
+            {
+              "type": "reports",
+              "id": 530
+            },
+            {
+              "type": "reports",
+              "id": 554
+            },
+            {
+              "type": "reports",
+              "id": 578
+            },
+            {
+              "type": "reports",
+              "id": 602
+            },
+            {
+              "type": "reports",
+              "id": 626
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "21",
+      "attributes": {
+        "name": "Talbot",
+        "population": 38098,
+        "current-cases": 16
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/21/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 18
+            },
+            {
+              "type": "reports",
+              "id": 29
+            },
+            {
+              "type": "reports",
+              "id": 40
+            },
+            {
+              "type": "reports",
+              "id": 52
+            },
+            {
+              "type": "reports",
+              "id": 64
+            },
+            {
+              "type": "reports",
+              "id": 78
+            },
+            {
+              "type": "reports",
+              "id": 96
+            },
+            {
+              "type": "reports",
+              "id": 117
+            },
+            {
+              "type": "reports",
+              "id": 138
+            },
+            {
+              "type": "reports",
+              "id": 160
+            },
+            {
+              "type": "reports",
+              "id": 182
+            },
+            {
+              "type": "reports",
+              "id": 204
+            },
+            {
+              "type": "reports",
+              "id": 226
+            },
+            {
+              "type": "reports",
+              "id": 248
+            },
+            {
+              "type": "reports",
+              "id": 270
+            },
+            {
+              "type": "reports",
+              "id": 292
+            },
+            {
+              "type": "reports",
+              "id": 315
+            },
+            {
+              "type": "reports",
+              "id": 339
+            },
+            {
+              "type": "reports",
+              "id": 363
+            },
+            {
+              "type": "reports",
+              "id": 387
+            },
+            {
+              "type": "reports",
+              "id": 411
+            },
+            {
+              "type": "reports",
+              "id": 435
+            },
+            {
+              "type": "reports",
+              "id": 459
+            },
+            {
+              "type": "reports",
+              "id": 483
+            },
+            {
+              "type": "reports",
+              "id": 507
+            },
+            {
+              "type": "reports",
+              "id": 531
+            },
+            {
+              "type": "reports",
+              "id": 555
+            },
+            {
+              "type": "reports",
+              "id": 579
+            },
+            {
+              "type": "reports",
+              "id": 603
+            },
+            {
+              "type": "reports",
+              "id": 627
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "22",
+      "attributes": {
+        "name": "Washington",
+        "population": 149180,
+        "current-cases": 96
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/22/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 97
+            },
+            {
+              "type": "reports",
+              "id": 118
+            },
+            {
+              "type": "reports",
+              "id": 139
+            },
+            {
+              "type": "reports",
+              "id": 161
+            },
+            {
+              "type": "reports",
+              "id": 183
+            },
+            {
+              "type": "reports",
+              "id": 205
+            },
+            {
+              "type": "reports",
+              "id": 227
+            },
+            {
+              "type": "reports",
+              "id": 249
+            },
+            {
+              "type": "reports",
+              "id": 271
+            },
+            {
+              "type": "reports",
+              "id": 293
+            },
+            {
+              "type": "reports",
+              "id": 316
+            },
+            {
+              "type": "reports",
+              "id": 340
+            },
+            {
+              "type": "reports",
+              "id": 364
+            },
+            {
+              "type": "reports",
+              "id": 388
+            },
+            {
+              "type": "reports",
+              "id": 412
+            },
+            {
+              "type": "reports",
+              "id": 436
+            },
+            {
+              "type": "reports",
+              "id": 460
+            },
+            {
+              "type": "reports",
+              "id": 484
+            },
+            {
+              "type": "reports",
+              "id": 508
+            },
+            {
+              "type": "reports",
+              "id": 532
+            },
+            {
+              "type": "reports",
+              "id": 556
+            },
+            {
+              "type": "reports",
+              "id": 580
+            },
+            {
+              "type": "reports",
+              "id": 604
+            },
+            {
+              "type": "reports",
+              "id": 628
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "23",
+      "attributes": {
+        "name": "Wicomico",
+        "population": 100647,
+        "current-cases": 63
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/23/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 65
+            },
+            {
+              "type": "reports",
+              "id": 79
+            },
+            {
+              "type": "reports",
+              "id": 98
+            },
+            {
+              "type": "reports",
+              "id": 119
+            },
+            {
+              "type": "reports",
+              "id": 140
+            },
+            {
+              "type": "reports",
+              "id": 162
+            },
+            {
+              "type": "reports",
+              "id": 184
+            },
+            {
+              "type": "reports",
+              "id": 206
+            },
+            {
+              "type": "reports",
+              "id": 228
+            },
+            {
+              "type": "reports",
+              "id": 250
+            },
+            {
+              "type": "reports",
+              "id": 272
+            },
+            {
+              "type": "reports",
+              "id": 294
+            },
+            {
+              "type": "reports",
+              "id": 317
+            },
+            {
+              "type": "reports",
+              "id": 341
+            },
+            {
+              "type": "reports",
+              "id": 365
+            },
+            {
+              "type": "reports",
+              "id": 389
+            },
+            {
+              "type": "reports",
+              "id": 413
+            },
+            {
+              "type": "reports",
+              "id": 437
+            },
+            {
+              "type": "reports",
+              "id": 461
+            },
+            {
+              "type": "reports",
+              "id": 485
+            },
+            {
+              "type": "reports",
+              "id": 509
+            },
+            {
+              "type": "reports",
+              "id": 533
+            },
+            {
+              "type": "reports",
+              "id": 557
+            },
+            {
+              "type": "reports",
+              "id": 581
+            },
+            {
+              "type": "reports",
+              "id": 605
+            },
+            {
+              "type": "reports",
+              "id": 629
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "counties",
+      "id": "24",
+      "attributes": {
+        "name": "Worcester",
+        "population": 51578,
+        "current-cases": 21
+      },
+      "relationships": {
+        "reports": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/24/reports.json"
+          },
+          "data": [
+            {
+              "type": "reports",
+              "id": 66
+            },
+            {
+              "type": "reports",
+              "id": 80
+            },
+            {
+              "type": "reports",
+              "id": 99
+            },
+            {
+              "type": "reports",
+              "id": 120
+            },
+            {
+              "type": "reports",
+              "id": 141
+            },
+            {
+              "type": "reports",
+              "id": 163
+            },
+            {
+              "type": "reports",
+              "id": 185
+            },
+            {
+              "type": "reports",
+              "id": 207
+            },
+            {
+              "type": "reports",
+              "id": 229
+            },
+            {
+              "type": "reports",
+              "id": 251
+            },
+            {
+              "type": "reports",
+              "id": 273
+            },
+            {
+              "type": "reports",
+              "id": 295
+            },
+            {
+              "type": "reports",
+              "id": 318
+            },
+            {
+              "type": "reports",
+              "id": 342
+            },
+            {
+              "type": "reports",
+              "id": 366
+            },
+            {
+              "type": "reports",
+              "id": 390
+            },
+            {
+              "type": "reports",
+              "id": 414
+            },
+            {
+              "type": "reports",
+              "id": 438
+            },
+            {
+              "type": "reports",
+              "id": 462
+            },
+            {
+              "type": "reports",
+              "id": 486
+            },
+            {
+              "type": "reports",
+              "id": 510
+            },
+            {
+              "type": "reports",
+              "id": 534
+            },
+            {
+              "type": "reports",
+              "id": 558
+            },
+            {
+              "type": "reports",
+              "id": 582
+            },
+            {
+              "type": "reports",
+              "id": 606
+            },
+            {
+              "type": "reports",
+              "id": 630
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

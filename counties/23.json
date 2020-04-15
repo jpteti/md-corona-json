@@ -1,0 +1,124 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "23",
+    "attributes": {
+      "name": "Wicomico",
+      "population": 100647,
+      "current-cases": 63
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/23/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 65
+          },
+          {
+            "type": "reports",
+            "id": 79
+          },
+          {
+            "type": "reports",
+            "id": 98
+          },
+          {
+            "type": "reports",
+            "id": 119
+          },
+          {
+            "type": "reports",
+            "id": 140
+          },
+          {
+            "type": "reports",
+            "id": 162
+          },
+          {
+            "type": "reports",
+            "id": 184
+          },
+          {
+            "type": "reports",
+            "id": 206
+          },
+          {
+            "type": "reports",
+            "id": 228
+          },
+          {
+            "type": "reports",
+            "id": 250
+          },
+          {
+            "type": "reports",
+            "id": 272
+          },
+          {
+            "type": "reports",
+            "id": 294
+          },
+          {
+            "type": "reports",
+            "id": 317
+          },
+          {
+            "type": "reports",
+            "id": 341
+          },
+          {
+            "type": "reports",
+            "id": 365
+          },
+          {
+            "type": "reports",
+            "id": 389
+          },
+          {
+            "type": "reports",
+            "id": 413
+          },
+          {
+            "type": "reports",
+            "id": 437
+          },
+          {
+            "type": "reports",
+            "id": 461
+          },
+          {
+            "type": "reports",
+            "id": 485
+          },
+          {
+            "type": "reports",
+            "id": 509
+          },
+          {
+            "type": "reports",
+            "id": 533
+          },
+          {
+            "type": "reports",
+            "id": 557
+          },
+          {
+            "type": "reports",
+            "id": 581
+          },
+          {
+            "type": "reports",
+            "id": 605
+          },
+          {
+            "type": "reports",
+            "id": 629
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "18",
+    "attributes": {
+      "name": "Queen Anne's",
+      "population": 48595,
+      "current-cases": 19
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/18/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 114
+          },
+          {
+            "type": "reports",
+            "id": 135
+          },
+          {
+            "type": "reports",
+            "id": 157
+          },
+          {
+            "type": "reports",
+            "id": 179
+          },
+          {
+            "type": "reports",
+            "id": 201
+          },
+          {
+            "type": "reports",
+            "id": 223
+          },
+          {
+            "type": "reports",
+            "id": 245
+          },
+          {
+            "type": "reports",
+            "id": 267
+          },
+          {
+            "type": "reports",
+            "id": 289
+          },
+          {
+            "type": "reports",
+            "id": 312
+          },
+          {
+            "type": "reports",
+            "id": 336
+          },
+          {
+            "type": "reports",
+            "id": 360
+          },
+          {
+            "type": "reports",
+            "id": 384
+          },
+          {
+            "type": "reports",
+            "id": 408
+          },
+          {
+            "type": "reports",
+            "id": 432
+          },
+          {
+            "type": "reports",
+            "id": 456
+          },
+          {
+            "type": "reports",
+            "id": 480
+          },
+          {
+            "type": "reports",
+            "id": 504
+          },
+          {
+            "type": "reports",
+            "id": 528
+          },
+          {
+            "type": "reports",
+            "id": 552
+          },
+          {
+            "type": "reports",
+            "id": 576
+          },
+          {
+            "type": "reports",
+            "id": 600
+          },
+          {
+            "type": "reports",
+            "id": 624
+          }
+        ]
+      }
+    }
+  }
+}

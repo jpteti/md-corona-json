@@ -1,0 +1,128 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "5",
+    "attributes": {
+      "name": "Calvert",
+      "population": 89628,
+      "current-cases": 99
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/5/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 44
+          },
+          {
+            "type": "reports",
+            "id": 56
+          },
+          {
+            "type": "reports",
+            "id": 70
+          },
+          {
+            "type": "reports",
+            "id": 84
+          },
+          {
+            "type": "reports",
+            "id": 103
+          },
+          {
+            "type": "reports",
+            "id": 124
+          },
+          {
+            "type": "reports",
+            "id": 145
+          },
+          {
+            "type": "reports",
+            "id": 167
+          },
+          {
+            "type": "reports",
+            "id": 189
+          },
+          {
+            "type": "reports",
+            "id": 211
+          },
+          {
+            "type": "reports",
+            "id": 233
+          },
+          {
+            "type": "reports",
+            "id": 255
+          },
+          {
+            "type": "reports",
+            "id": 277
+          },
+          {
+            "type": "reports",
+            "id": 299
+          },
+          {
+            "type": "reports",
+            "id": 323
+          },
+          {
+            "type": "reports",
+            "id": 347
+          },
+          {
+            "type": "reports",
+            "id": 371
+          },
+          {
+            "type": "reports",
+            "id": 395
+          },
+          {
+            "type": "reports",
+            "id": 419
+          },
+          {
+            "type": "reports",
+            "id": 443
+          },
+          {
+            "type": "reports",
+            "id": 467
+          },
+          {
+            "type": "reports",
+            "id": 491
+          },
+          {
+            "type": "reports",
+            "id": 515
+          },
+          {
+            "type": "reports",
+            "id": 539
+          },
+          {
+            "type": "reports",
+            "id": 563
+          },
+          {
+            "type": "reports",
+            "id": 587
+          },
+          {
+            "type": "reports",
+            "id": 611
+          }
+        ]
+      }
+    }
+  }
+}

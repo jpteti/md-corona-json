@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "13",
+    "attributes": {
+      "name": "Harford",
+      "population": 248622,
+      "current-cases": 147
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/13/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 6
+          },
+          {
+            "type": "reports",
+            "id": 14
+          },
+          {
+            "type": "reports",
+            "id": 25
+          },
+          {
+            "type": "reports",
+            "id": 36
+          },
+          {
+            "type": "reports",
+            "id": 48
+          },
+          {
+            "type": "reports",
+            "id": 60
+          },
+          {
+            "type": "reports",
+            "id": 74
+          },
+          {
+            "type": "reports",
+            "id": 90
+          },
+          {
+            "type": "reports",
+            "id": 110
+          },
+          {
+            "type": "reports",
+            "id": 131
+          },
+          {
+            "type": "reports",
+            "id": 152
+          },
+          {
+            "type": "reports",
+            "id": 174
+          },
+          {
+            "type": "reports",
+            "id": 196
+          },
+          {
+            "type": "reports",
+            "id": 218
+          },
+          {
+            "type": "reports",
+            "id": 240
+          },
+          {
+            "type": "reports",
+            "id": 262
+          },
+          {
+            "type": "reports",
+            "id": 284
+          },
+          {
+            "type": "reports",
+            "id": 307
+          },
+          {
+            "type": "reports",
+            "id": 331
+          },
+          {
+            "type": "reports",
+            "id": 355
+          },
+          {
+            "type": "reports",
+            "id": 379
+          },
+          {
+            "type": "reports",
+            "id": 403
+          },
+          {
+            "type": "reports",
+            "id": 427
+          },
+          {
+            "type": "reports",
+            "id": 451
+          },
+          {
+            "type": "reports",
+            "id": 475
+          },
+          {
+            "type": "reports",
+            "id": 499
+          },
+          {
+            "type": "reports",
+            "id": 523
+          },
+          {
+            "type": "reports",
+            "id": 547
+          },
+          {
+            "type": "reports",
+            "id": 571
+          },
+          {
+            "type": "reports",
+            "id": 595
+          },
+          {
+            "type": "reports",
+            "id": 619
+          }
+        ]
+      }
+    }
+  }
+}

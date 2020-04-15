@@ -1,0 +1,270 @@
+{
+  "data": [
+    {
+      "type": "reports",
+      "id": "304",
+      "attributes": {
+        "date": "2020-04-01T10:00:00-04:00",
+        "cases": 1
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "328",
+      "attributes": {
+        "date": "2020-04-02T10:00:00-04:00",
+        "cases": 1
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "352",
+      "attributes": {
+        "date": "2020-04-03T10:00:00-04:00",
+        "cases": 1
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "376",
+      "attributes": {
+        "date": "2020-04-04T10:00:00-04:00",
+        "cases": 1
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "400",
+      "attributes": {
+        "date": "2020-04-05T10:00:00-04:00",
+        "cases": 1
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "424",
+      "attributes": {
+        "date": "2020-04-06T10:00:00-04:00",
+        "cases": 1
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "448",
+      "attributes": {
+        "date": "2020-04-07T10:00:00-04:00",
+        "cases": 3
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "472",
+      "attributes": {
+        "date": "2020-04-08T10:00:00-04:00",
+        "cases": 4
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "496",
+      "attributes": {
+        "date": "2020-04-09T10:00:00-04:00",
+        "cases": 7
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "520",
+      "attributes": {
+        "date": "2020-04-10T10:00:00-04:00",
+        "cases": 7
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "544",
+      "attributes": {
+        "date": "2020-04-11T10:00:00-04:00",
+        "cases": 8
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "568",
+      "attributes": {
+        "date": "2020-04-12T10:00:00-04:00",
+        "cases": 9
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "592",
+      "attributes": {
+        "date": "2020-04-13T10:00:00-04:00",
+        "cases": 12
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "616",
+      "attributes": {
+        "date": "2020-04-14T10:00:00-04:00",
+        "cases": 14
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "http://corona-api.jpteti.com/counties/10.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "10"
+          }
+        }
+      }
+    }
+  ]
+}

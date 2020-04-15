@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "9",
+    "attributes": {
+      "name": "Charles",
+      "population": 150592,
+      "current-cases": 292
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/9/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 5
+          },
+          {
+            "type": "reports",
+            "id": 13
+          },
+          {
+            "type": "reports",
+            "id": 23
+          },
+          {
+            "type": "reports",
+            "id": 34
+          },
+          {
+            "type": "reports",
+            "id": 46
+          },
+          {
+            "type": "reports",
+            "id": 58
+          },
+          {
+            "type": "reports",
+            "id": 72
+          },
+          {
+            "type": "reports",
+            "id": 88
+          },
+          {
+            "type": "reports",
+            "id": 107
+          },
+          {
+            "type": "reports",
+            "id": 128
+          },
+          {
+            "type": "reports",
+            "id": 149
+          },
+          {
+            "type": "reports",
+            "id": 171
+          },
+          {
+            "type": "reports",
+            "id": 193
+          },
+          {
+            "type": "reports",
+            "id": 215
+          },
+          {
+            "type": "reports",
+            "id": 237
+          },
+          {
+            "type": "reports",
+            "id": 259
+          },
+          {
+            "type": "reports",
+            "id": 281
+          },
+          {
+            "type": "reports",
+            "id": 303
+          },
+          {
+            "type": "reports",
+            "id": 327
+          },
+          {
+            "type": "reports",
+            "id": 351
+          },
+          {
+            "type": "reports",
+            "id": 375
+          },
+          {
+            "type": "reports",
+            "id": 399
+          },
+          {
+            "type": "reports",
+            "id": 423
+          },
+          {
+            "type": "reports",
+            "id": 447
+          },
+          {
+            "type": "reports",
+            "id": 471
+          },
+          {
+            "type": "reports",
+            "id": 495
+          },
+          {
+            "type": "reports",
+            "id": 519
+          },
+          {
+            "type": "reports",
+            "id": 543
+          },
+          {
+            "type": "reports",
+            "id": 567
+          },
+          {
+            "type": "reports",
+            "id": 591
+          },
+          {
+            "type": "reports",
+            "id": 615
+          }
+        ]
+      }
+    }
+  }
+}

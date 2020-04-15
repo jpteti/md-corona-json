@@ -1,0 +1,116 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "20",
+    "attributes": {
+      "name": "St. Mary's",
+      "population": 108987,
+      "current-cases": 98
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/20/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 95
+          },
+          {
+            "type": "reports",
+            "id": 116
+          },
+          {
+            "type": "reports",
+            "id": 137
+          },
+          {
+            "type": "reports",
+            "id": 159
+          },
+          {
+            "type": "reports",
+            "id": 181
+          },
+          {
+            "type": "reports",
+            "id": 203
+          },
+          {
+            "type": "reports",
+            "id": 225
+          },
+          {
+            "type": "reports",
+            "id": 247
+          },
+          {
+            "type": "reports",
+            "id": 269
+          },
+          {
+            "type": "reports",
+            "id": 291
+          },
+          {
+            "type": "reports",
+            "id": 314
+          },
+          {
+            "type": "reports",
+            "id": 338
+          },
+          {
+            "type": "reports",
+            "id": 362
+          },
+          {
+            "type": "reports",
+            "id": 386
+          },
+          {
+            "type": "reports",
+            "id": 410
+          },
+          {
+            "type": "reports",
+            "id": 434
+          },
+          {
+            "type": "reports",
+            "id": 458
+          },
+          {
+            "type": "reports",
+            "id": 482
+          },
+          {
+            "type": "reports",
+            "id": 506
+          },
+          {
+            "type": "reports",
+            "id": 530
+          },
+          {
+            "type": "reports",
+            "id": 554
+          },
+          {
+            "type": "reports",
+            "id": 578
+          },
+          {
+            "type": "reports",
+            "id": 602
+          },
+          {
+            "type": "reports",
+            "id": 626
+          }
+        ]
+      }
+    }
+  }
+}

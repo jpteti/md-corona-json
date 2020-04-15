@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "2",
+    "attributes": {
+      "name": "Anne Arundel",
+      "population": 550488,
+      "current-cases": 783
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/2/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 1
+          },
+          {
+            "type": "reports",
+            "id": 9
+          },
+          {
+            "type": "reports",
+            "id": 19
+          },
+          {
+            "type": "reports",
+            "id": 30
+          },
+          {
+            "type": "reports",
+            "id": 41
+          },
+          {
+            "type": "reports",
+            "id": 53
+          },
+          {
+            "type": "reports",
+            "id": 67
+          },
+          {
+            "type": "reports",
+            "id": 81
+          },
+          {
+            "type": "reports",
+            "id": 100
+          },
+          {
+            "type": "reports",
+            "id": 121
+          },
+          {
+            "type": "reports",
+            "id": 142
+          },
+          {
+            "type": "reports",
+            "id": 164
+          },
+          {
+            "type": "reports",
+            "id": 186
+          },
+          {
+            "type": "reports",
+            "id": 208
+          },
+          {
+            "type": "reports",
+            "id": 230
+          },
+          {
+            "type": "reports",
+            "id": 252
+          },
+          {
+            "type": "reports",
+            "id": 274
+          },
+          {
+            "type": "reports",
+            "id": 296
+          },
+          {
+            "type": "reports",
+            "id": 320
+          },
+          {
+            "type": "reports",
+            "id": 344
+          },
+          {
+            "type": "reports",
+            "id": 368
+          },
+          {
+            "type": "reports",
+            "id": 392
+          },
+          {
+            "type": "reports",
+            "id": 416
+          },
+          {
+            "type": "reports",
+            "id": 440
+          },
+          {
+            "type": "reports",
+            "id": 464
+          },
+          {
+            "type": "reports",
+            "id": 488
+          },
+          {
+            "type": "reports",
+            "id": 512
+          },
+          {
+            "type": "reports",
+            "id": 536
+          },
+          {
+            "type": "reports",
+            "id": 560
+          },
+          {
+            "type": "reports",
+            "id": 584
+          },
+          {
+            "type": "reports",
+            "id": 608
+          }
+        ]
+      }
+    }
+  }
+}

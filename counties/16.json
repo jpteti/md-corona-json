@@ -1,0 +1,144 @@
+{
+  "data": {
+    "type": "counties",
+    "id": "16",
+    "attributes": {
+      "name": "Prince George's",
+      "population": 881138,
+      "current-cases": 2356
+    },
+    "relationships": {
+      "reports": {
+        "links": {
+          "related": "http://corona-api.jpteti.com/counties/16/reports.json"
+        },
+        "data": [
+          {
+            "type": "reports",
+            "id": 7
+          },
+          {
+            "type": "reports",
+            "id": 16
+          },
+          {
+            "type": "reports",
+            "id": 27
+          },
+          {
+            "type": "reports",
+            "id": 38
+          },
+          {
+            "type": "reports",
+            "id": 50
+          },
+          {
+            "type": "reports",
+            "id": 62
+          },
+          {
+            "type": "reports",
+            "id": 76
+          },
+          {
+            "type": "reports",
+            "id": 92
+          },
+          {
+            "type": "reports",
+            "id": 112
+          },
+          {
+            "type": "reports",
+            "id": 133
+          },
+          {
+            "type": "reports",
+            "id": 155
+          },
+          {
+            "type": "reports",
+            "id": 177
+          },
+          {
+            "type": "reports",
+            "id": 199
+          },
+          {
+            "type": "reports",
+            "id": 221
+          },
+          {
+            "type": "reports",
+            "id": 243
+          },
+          {
+            "type": "reports",
+            "id": 265
+          },
+          {
+            "type": "reports",
+            "id": 287
+          },
+          {
+            "type": "reports",
+            "id": 310
+          },
+          {
+            "type": "reports",
+            "id": 334
+          },
+          {
+            "type": "reports",
+            "id": 358
+          },
+          {
+            "type": "reports",
+            "id": 382
+          },
+          {
+            "type": "reports",
+            "id": 406
+          },
+          {
+            "type": "reports",
+            "id": 430
+          },
+          {
+            "type": "reports",
+            "id": 454
+          },
+          {
+            "type": "reports",
+            "id": 478
+          },
+          {
+            "type": "reports",
+            "id": 502
+          },
+          {
+            "type": "reports",
+            "id": 526
+          },
+          {
+            "type": "reports",
+            "id": 550
+          },
+          {
+            "type": "reports",
+            "id": 574
+          },
+          {
+            "type": "reports",
+            "id": 598
+          },
+          {
+            "type": "reports",
+            "id": 622
+          }
+        ]
+      }
+    }
+  }
+}
