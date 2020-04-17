@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Harford",
       "population": 248622,
-      "current-cases": 147
+      "current-cases": 161
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/13/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/13/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 619
+          },
+          {
+            "type": "reports",
+            "id": 643
+          },
+          {
+            "type": "reports",
+            "id": 667
           }
         ]
       }

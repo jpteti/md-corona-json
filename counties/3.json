@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Baltimore City",
       "population": 621342,
-      "current-cases": 962
+      "current-cases": 1160
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/3/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/3/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 609
+          },
+          {
+            "type": "reports",
+            "id": 633
+          },
+          {
+            "type": "reports",
+            "id": 657
           }
         ]
       }

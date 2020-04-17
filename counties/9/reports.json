@@ -10,7 +10,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -29,7 +29,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -48,7 +48,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -67,7 +67,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -86,7 +86,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -105,7 +105,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -124,7 +124,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -143,7 +143,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -162,7 +162,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -181,7 +181,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -200,7 +200,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -219,7 +219,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -238,7 +238,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -257,7 +257,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -276,7 +276,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -295,7 +295,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -314,7 +314,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -333,7 +333,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -352,7 +352,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -371,7 +371,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -390,7 +390,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -409,7 +409,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -428,7 +428,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -447,7 +447,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -466,7 +466,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -485,7 +485,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -504,7 +504,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -523,7 +523,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -542,7 +542,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -561,7 +561,7 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",
@@ -580,7 +580,45 @@
       "relationships": {
         "county": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9.json"
+            "related": "https://corona-api.jpteti.com/counties/9.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "9"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "639",
+      "attributes": {
+        "date": "2020-04-15T10:00:00-04:00",
+        "cases": 310
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/9.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "9"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "663",
+      "attributes": {
+        "date": "2020-04-16T10:00:00-04:00",
+        "cases": 327
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/9.json"
           },
           "data": {
             "type": "counties",

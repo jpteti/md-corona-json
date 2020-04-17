@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Worcester",
       "population": 51578,
-      "current-cases": 21
+      "current-cases": 25
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/24/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/24/reports.json"
         },
         "data": [
           {
@@ -116,6 +116,14 @@
           {
             "type": "reports",
             "id": 630
+          },
+          {
+            "type": "reports",
+            "id": 654
+          },
+          {
+            "type": "reports",
+            "id": 678
           }
         ]
       }

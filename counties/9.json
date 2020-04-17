@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Charles",
       "population": 150592,
-      "current-cases": 292
+      "current-cases": 327
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/9/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/9/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 615
+          },
+          {
+            "type": "reports",
+            "id": 639
+          },
+          {
+            "type": "reports",
+            "id": 663
           }
         ]
       }

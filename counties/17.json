@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Montgomery",
       "population": 1004709,
-      "current-cases": 1883
+      "current-cases": 2133
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/17/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/17/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 623
+          },
+          {
+            "type": "reports",
+            "id": 647
+          },
+          {
+            "type": "reports",
+            "id": 671
           }
         ]
       }

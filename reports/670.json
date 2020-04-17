@@ -1,0 +1,21 @@
+{
+  "data": {
+    "type": "reports",
+    "id": "670",
+    "attributes": {
+      "date": "2020-04-16T10:00:00-04:00",
+      "cases": 2722
+    },
+    "relationships": {
+      "county": {
+        "links": {
+          "related": "https://corona-api.jpteti.com/counties/16.json"
+        },
+        "data": {
+          "type": "counties",
+          "id": "16"
+        }
+      }
+    }
+  }
+}

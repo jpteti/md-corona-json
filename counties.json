@@ -6,12 +6,12 @@
       "attributes": {
         "name": "Allegany",
         "population": 74012,
-        "current-cases": 17
+        "current-cases": 20
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/1/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/1/reports.json"
           },
           "data": [
             {
@@ -65,6 +65,14 @@
             {
               "type": "reports",
               "id": 607
+            },
+            {
+              "type": "reports",
+              "id": 631
+            },
+            {
+              "type": "reports",
+              "id": 655
             }
           ]
         }
@@ -76,12 +84,12 @@
       "attributes": {
         "name": "Anne Arundel",
         "population": 550488,
-        "current-cases": 783
+        "current-cases": 896
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/2/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/2/reports.json"
           },
           "data": [
             {
@@ -207,6 +215,14 @@
             {
               "type": "reports",
               "id": 608
+            },
+            {
+              "type": "reports",
+              "id": 632
+            },
+            {
+              "type": "reports",
+              "id": 656
             }
           ]
         }
@@ -218,12 +234,12 @@
       "attributes": {
         "name": "Baltimore City",
         "population": 621342,
-        "current-cases": 962
+        "current-cases": 1160
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/3/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/3/reports.json"
           },
           "data": [
             {
@@ -349,6 +365,14 @@
             {
               "type": "reports",
               "id": 609
+            },
+            {
+              "type": "reports",
+              "id": 633
+            },
+            {
+              "type": "reports",
+              "id": 657
             }
           ]
         }
@@ -360,12 +384,12 @@
       "attributes": {
         "name": "Baltimore County",
         "population": 817455,
-        "current-cases": 1377
+        "current-cases": 1516
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/4/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/4/reports.json"
           },
           "data": [
             {
@@ -491,6 +515,14 @@
             {
               "type": "reports",
               "id": 610
+            },
+            {
+              "type": "reports",
+              "id": 634
+            },
+            {
+              "type": "reports",
+              "id": 658
             }
           ]
         }
@@ -502,12 +534,12 @@
       "attributes": {
         "name": "Calvert",
         "population": 89628,
-        "current-cases": 99
+        "current-cases": 103
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/5/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/5/reports.json"
           },
           "data": [
             {
@@ -617,6 +649,14 @@
             {
               "type": "reports",
               "id": 611
+            },
+            {
+              "type": "reports",
+              "id": 635
+            },
+            {
+              "type": "reports",
+              "id": 659
             }
           ]
         }
@@ -628,12 +668,12 @@
       "attributes": {
         "name": "Caroline",
         "population": 32718,
-        "current-cases": 21
+        "current-cases": 23
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/6/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/6/reports.json"
           },
           "data": [
             {
@@ -731,6 +771,14 @@
             {
               "type": "reports",
               "id": 612
+            },
+            {
+              "type": "reports",
+              "id": 636
+            },
+            {
+              "type": "reports",
+              "id": 660
             }
           ]
         }
@@ -742,12 +790,12 @@
       "attributes": {
         "name": "Carroll",
         "population": 167217,
-        "current-cases": 259
+        "current-cases": 283
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/7/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/7/reports.json"
           },
           "data": [
             {
@@ -873,6 +921,14 @@
             {
               "type": "reports",
               "id": 613
+            },
+            {
+              "type": "reports",
+              "id": 637
+            },
+            {
+              "type": "reports",
+              "id": 661
             }
           ]
         }
@@ -884,12 +940,12 @@
       "attributes": {
         "name": "Cecil",
         "population": 101696,
-        "current-cases": 85
+        "current-cases": 101
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/8/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/8/reports.json"
           },
           "data": [
             {
@@ -987,6 +1043,14 @@
             {
               "type": "reports",
               "id": 614
+            },
+            {
+              "type": "reports",
+              "id": 638
+            },
+            {
+              "type": "reports",
+              "id": 662
             }
           ]
         }
@@ -998,12 +1062,12 @@
       "attributes": {
         "name": "Charles",
         "population": 150592,
-        "current-cases": 292
+        "current-cases": 327
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/9/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/9/reports.json"
           },
           "data": [
             {
@@ -1129,6 +1193,14 @@
             {
               "type": "reports",
               "id": 615
+            },
+            {
+              "type": "reports",
+              "id": 639
+            },
+            {
+              "type": "reports",
+              "id": 663
             }
           ]
         }
@@ -1140,12 +1212,12 @@
       "attributes": {
         "name": "Dorchester",
         "population": 32551,
-        "current-cases": 14
+        "current-cases": 18
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/10/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/10/reports.json"
           },
           "data": [
             {
@@ -1203,6 +1275,14 @@
             {
               "type": "reports",
               "id": 616
+            },
+            {
+              "type": "reports",
+              "id": 640
+            },
+            {
+              "type": "reports",
+              "id": 664
             }
           ]
         }
@@ -1214,12 +1294,12 @@
       "attributes": {
         "name": "Frederick",
         "population": 239582,
-        "current-cases": 441
+        "current-cases": 497
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/11/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/11/reports.json"
           },
           "data": [
             {
@@ -1337,6 +1417,14 @@
             {
               "type": "reports",
               "id": 617
+            },
+            {
+              "type": "reports",
+              "id": 641
+            },
+            {
+              "type": "reports",
+              "id": 665
             }
           ]
         }
@@ -1353,7 +1441,7 @@
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/12/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/12/reports.json"
           },
           "data": [
             {
@@ -1447,6 +1535,14 @@
             {
               "type": "reports",
               "id": 618
+            },
+            {
+              "type": "reports",
+              "id": 642
+            },
+            {
+              "type": "reports",
+              "id": 666
             }
           ]
         }
@@ -1458,12 +1554,12 @@
       "attributes": {
         "name": "Harford",
         "population": 248622,
-        "current-cases": 147
+        "current-cases": 161
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/13/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/13/reports.json"
           },
           "data": [
             {
@@ -1589,6 +1685,14 @@
             {
               "type": "reports",
               "id": 619
+            },
+            {
+              "type": "reports",
+              "id": 643
+            },
+            {
+              "type": "reports",
+              "id": 667
             }
           ]
         }
@@ -1600,12 +1704,12 @@
       "attributes": {
         "name": "Howard",
         "population": 299430,
-        "current-cases": 403
+        "current-cases": 451
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/14/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/14/reports.json"
           },
           "data": [
             {
@@ -1727,6 +1831,14 @@
             {
               "type": "reports",
               "id": 620
+            },
+            {
+              "type": "reports",
+              "id": 644
+            },
+            {
+              "type": "reports",
+              "id": 668
             }
           ]
         }
@@ -1743,7 +1855,7 @@
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/15/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/15/reports.json"
           },
           "data": [
             {
@@ -1829,6 +1941,14 @@
             {
               "type": "reports",
               "id": 621
+            },
+            {
+              "type": "reports",
+              "id": 645
+            },
+            {
+              "type": "reports",
+              "id": 669
             }
           ]
         }
@@ -1840,12 +1960,12 @@
       "attributes": {
         "name": "Prince George's",
         "population": 881138,
-        "current-cases": 2356
+        "current-cases": 2722
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/16/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/16/reports.json"
           },
           "data": [
             {
@@ -1971,6 +2091,14 @@
             {
               "type": "reports",
               "id": 622
+            },
+            {
+              "type": "reports",
+              "id": 646
+            },
+            {
+              "type": "reports",
+              "id": 670
             }
           ]
         }
@@ -1982,12 +2110,12 @@
       "attributes": {
         "name": "Montgomery",
         "population": 1004709,
-        "current-cases": 1883
+        "current-cases": 2133
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/17/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/17/reports.json"
           },
           "data": [
             {
@@ -2113,6 +2241,14 @@
             {
               "type": "reports",
               "id": 623
+            },
+            {
+              "type": "reports",
+              "id": 647
+            },
+            {
+              "type": "reports",
+              "id": 671
             }
           ]
         }
@@ -2129,7 +2265,7 @@
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/18/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/18/reports.json"
           },
           "data": [
             {
@@ -2223,6 +2359,14 @@
             {
               "type": "reports",
               "id": 624
+            },
+            {
+              "type": "reports",
+              "id": 648
+            },
+            {
+              "type": "reports",
+              "id": 672
             }
           ]
         }
@@ -2234,12 +2378,12 @@
       "attributes": {
         "name": "Somerset",
         "population": 26253,
-        "current-cases": 5
+        "current-cases": 6
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/19/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/19/reports.json"
           },
           "data": [
             {
@@ -2337,6 +2481,14 @@
             {
               "type": "reports",
               "id": 625
+            },
+            {
+              "type": "reports",
+              "id": 649
+            },
+            {
+              "type": "reports",
+              "id": 673
             }
           ]
         }
@@ -2353,7 +2505,7 @@
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/20/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/20/reports.json"
           },
           "data": [
             {
@@ -2451,6 +2603,14 @@
             {
               "type": "reports",
               "id": 626
+            },
+            {
+              "type": "reports",
+              "id": 650
+            },
+            {
+              "type": "reports",
+              "id": 674
             }
           ]
         }
@@ -2462,12 +2622,12 @@
       "attributes": {
         "name": "Talbot",
         "population": 38098,
-        "current-cases": 16
+        "current-cases": 14
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/21/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/21/reports.json"
           },
           "data": [
             {
@@ -2589,6 +2749,14 @@
             {
               "type": "reports",
               "id": 627
+            },
+            {
+              "type": "reports",
+              "id": 651
+            },
+            {
+              "type": "reports",
+              "id": 675
             }
           ]
         }
@@ -2600,12 +2768,12 @@
       "attributes": {
         "name": "Washington",
         "population": 149180,
-        "current-cases": 96
+        "current-cases": 109
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/22/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/22/reports.json"
           },
           "data": [
             {
@@ -2703,6 +2871,14 @@
             {
               "type": "reports",
               "id": 628
+            },
+            {
+              "type": "reports",
+              "id": 652
+            },
+            {
+              "type": "reports",
+              "id": 676
             }
           ]
         }
@@ -2714,12 +2890,12 @@
       "attributes": {
         "name": "Wicomico",
         "population": 100647,
-        "current-cases": 63
+        "current-cases": 87
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/23/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/23/reports.json"
           },
           "data": [
             {
@@ -2825,6 +3001,14 @@
             {
               "type": "reports",
               "id": 629
+            },
+            {
+              "type": "reports",
+              "id": 653
+            },
+            {
+              "type": "reports",
+              "id": 677
             }
           ]
         }
@@ -2836,12 +3020,12 @@
       "attributes": {
         "name": "Worcester",
         "population": 51578,
-        "current-cases": 21
+        "current-cases": 25
       },
       "relationships": {
         "reports": {
           "links": {
-            "related": "http://corona-api.jpteti.com/counties/24/reports.json"
+            "related": "https://corona-api.jpteti.com/counties/24/reports.json"
           },
           "data": [
             {
@@ -2947,6 +3131,14 @@
             {
               "type": "reports",
               "id": 630
+            },
+            {
+              "type": "reports",
+              "id": 654
+            },
+            {
+              "type": "reports",
+              "id": 678
             }
           ]
         }

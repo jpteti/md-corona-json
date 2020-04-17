@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Howard",
       "population": 299430,
-      "current-cases": 403
+      "current-cases": 451
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/14/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/14/reports.json"
         },
         "data": [
           {
@@ -132,6 +132,14 @@
           {
             "type": "reports",
             "id": 620
+          },
+          {
+            "type": "reports",
+            "id": 644
+          },
+          {
+            "type": "reports",
+            "id": 668
           }
         ]
       }

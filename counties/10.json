@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Dorchester",
       "population": 32551,
-      "current-cases": 14
+      "current-cases": 18
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/10/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/10/reports.json"
         },
         "data": [
           {
@@ -68,6 +68,14 @@
           {
             "type": "reports",
             "id": 616
+          },
+          {
+            "type": "reports",
+            "id": 640
+          },
+          {
+            "type": "reports",
+            "id": 664
           }
         ]
       }

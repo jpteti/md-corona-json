@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Caroline",
       "population": 32718,
-      "current-cases": 21
+      "current-cases": 23
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/6/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/6/reports.json"
         },
         "data": [
           {
@@ -108,6 +108,14 @@
           {
             "type": "reports",
             "id": 612
+          },
+          {
+            "type": "reports",
+            "id": 636
+          },
+          {
+            "type": "reports",
+            "id": 660
           }
         ]
       }

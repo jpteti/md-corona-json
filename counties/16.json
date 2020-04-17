@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Prince George's",
       "population": 881138,
-      "current-cases": 2356
+      "current-cases": 2722
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/16/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/16/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 622
+          },
+          {
+            "type": "reports",
+            "id": 646
+          },
+          {
+            "type": "reports",
+            "id": 670
           }
         ]
       }

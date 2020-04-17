@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Allegany",
       "population": 74012,
-      "current-cases": 17
+      "current-cases": 20
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/1/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/1/reports.json"
         },
         "data": [
           {
@@ -64,6 +64,14 @@
           {
             "type": "reports",
             "id": 607
+          },
+          {
+            "type": "reports",
+            "id": 631
+          },
+          {
+            "type": "reports",
+            "id": 655
           }
         ]
       }

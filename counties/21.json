@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Talbot",
       "population": 38098,
-      "current-cases": 16
+      "current-cases": 14
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/21/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/21/reports.json"
         },
         "data": [
           {
@@ -132,6 +132,14 @@
           {
             "type": "reports",
             "id": 627
+          },
+          {
+            "type": "reports",
+            "id": 651
+          },
+          {
+            "type": "reports",
+            "id": 675
           }
         ]
       }

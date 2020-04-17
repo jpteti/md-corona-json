@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Wicomico",
       "population": 100647,
-      "current-cases": 63
+      "current-cases": 87
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/23/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/23/reports.json"
         },
         "data": [
           {
@@ -116,6 +116,14 @@
           {
             "type": "reports",
             "id": 629
+          },
+          {
+            "type": "reports",
+            "id": 653
+          },
+          {
+            "type": "reports",
+            "id": 677
           }
         ]
       }

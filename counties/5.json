@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Calvert",
       "population": 89628,
-      "current-cases": 99
+      "current-cases": 103
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/5/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/5/reports.json"
         },
         "data": [
           {
@@ -120,6 +120,14 @@
           {
             "type": "reports",
             "id": 611
+          },
+          {
+            "type": "reports",
+            "id": 635
+          },
+          {
+            "type": "reports",
+            "id": 659
           }
         ]
       }

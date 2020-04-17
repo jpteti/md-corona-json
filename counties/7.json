@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Carroll",
       "population": 167217,
-      "current-cases": 259
+      "current-cases": 283
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/7/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/7/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 613
+          },
+          {
+            "type": "reports",
+            "id": 637
+          },
+          {
+            "type": "reports",
+            "id": 661
           }
         ]
       }

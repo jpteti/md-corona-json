@@ -9,7 +9,7 @@
     "relationships": {
       "county": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/5.json"
+          "related": "https://corona-api.jpteti.com/counties/5.json"
         },
         "data": {
           "type": "counties",

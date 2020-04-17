@@ -5,12 +5,12 @@
     "attributes": {
       "name": "Anne Arundel",
       "population": 550488,
-      "current-cases": 783
+      "current-cases": 896
     },
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/2/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/2/reports.json"
         },
         "data": [
           {
@@ -136,6 +136,14 @@
           {
             "type": "reports",
             "id": 608
+          },
+          {
+            "type": "reports",
+            "id": 632
+          },
+          {
+            "type": "reports",
+            "id": 656
           }
         ]
       }

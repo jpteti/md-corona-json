@@ -10,7 +10,7 @@
     "relationships": {
       "reports": {
         "links": {
-          "related": "http://corona-api.jpteti.com/counties/18/reports.json"
+          "related": "https://corona-api.jpteti.com/counties/18/reports.json"
         },
         "data": [
           {
@@ -104,6 +104,14 @@
           {
             "type": "reports",
             "id": 624
+          },
+          {
+            "type": "reports",
+            "id": 648
+          },
+          {
+            "type": "reports",
+            "id": 672
           }
         ]
       }
