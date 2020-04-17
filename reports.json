@@ -100,7 +100,7 @@
       "id": "439",
       "attributes": {
         "date": "2020-04-07T10:00:00-04:00",
-        "cases": 7
+        "cases": 6
       },
       "relationships": {
         "county": {
@@ -2323,7 +2323,7 @@
       "id": "189",
       "attributes": {
         "date": "2020-03-27T10:00:00-04:00",
-        "cases": 9
+        "cases": 8
       },
       "relationships": {
         "county": {
@@ -6180,7 +6180,7 @@
       "id": "498",
       "attributes": {
         "date": "2020-04-09T10:00:00-04:00",
-        "cases": 5
+        "cases": 4
       },
       "relationships": {
         "county": {
@@ -10151,7 +10151,7 @@
       "id": "601",
       "attributes": {
         "date": "2020-04-13T10:00:00-04:00",
-        "cases": 6
+        "cases": 5
       },
       "relationships": {
         "county": {
@@ -10987,7 +10987,7 @@
       "id": "270",
       "attributes": {
         "date": "2020-03-30T10:00:00-04:00",
-        "cases": 4
+        "cases": 3
       },
       "relationships": {
         "county": {
@@ -11272,7 +11272,7 @@
       "id": "627",
       "attributes": {
         "date": "2020-04-14T10:00:00-04:00",
-        "cases": 16
+        "cases": 14
       },
       "relationships": {
         "county": {

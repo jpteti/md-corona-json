@@ -4,7 +4,7 @@
     "id": "270",
     "attributes": {
       "date": "2020-03-30T10:00:00-04:00",
-      "cases": 4
+      "cases": 3
     },
     "relationships": {
       "county": {
