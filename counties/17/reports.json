@@ -5,7 +5,9 @@
       "id": "8",
       "attributes": {
         "date": "2020-03-15T10:00:00-04:00",
-        "cases": 12
+        "cases": 12,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -24,7 +26,9 @@
       "id": "17",
       "attributes": {
         "date": "2020-03-16T10:00:00-04:00",
-        "cases": 15
+        "cases": 15,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -43,7 +47,9 @@
       "id": "28",
       "attributes": {
         "date": "2020-03-17T10:00:00-04:00",
-        "cases": 24
+        "cases": 24,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -62,7 +68,9 @@
       "id": "39",
       "attributes": {
         "date": "2020-03-18T10:00:00-04:00",
-        "cases": 31
+        "cases": 31,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -81,7 +89,9 @@
       "id": "51",
       "attributes": {
         "date": "2020-03-19T10:00:00-04:00",
-        "cases": 33
+        "cases": 33,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -100,7 +110,9 @@
       "id": "63",
       "attributes": {
         "date": "2020-03-20T10:00:00-04:00",
-        "cases": 51
+        "cases": 51,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -119,7 +131,9 @@
       "id": "77",
       "attributes": {
         "date": "2020-03-21T10:00:00-04:00",
-        "cases": 68
+        "cases": 68,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -138,7 +152,9 @@
       "id": "93",
       "attributes": {
         "date": "2020-03-22T10:00:00-04:00",
-        "cases": 83
+        "cases": 83,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -157,7 +173,9 @@
       "id": "113",
       "attributes": {
         "date": "2020-03-23T10:00:00-04:00",
-        "cases": 93
+        "cases": 93,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -176,7 +194,9 @@
       "id": "134",
       "attributes": {
         "date": "2020-03-24T10:00:00-04:00",
-        "cases": 107
+        "cases": 107,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -195,7 +215,9 @@
       "id": "156",
       "attributes": {
         "date": "2020-03-25T10:00:00-04:00",
-        "cases": 127
+        "cases": 127,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -214,7 +236,9 @@
       "id": "178",
       "attributes": {
         "date": "2020-03-26T10:00:00-04:00",
-        "cases": 164
+        "cases": 164,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -233,7 +257,9 @@
       "id": "200",
       "attributes": {
         "date": "2020-03-27T10:00:00-04:00",
-        "cases": 208
+        "cases": 208,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -252,7 +278,9 @@
       "id": "222",
       "attributes": {
         "date": "2020-03-28T10:00:00-04:00",
-        "cases": 255
+        "cases": 255,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -271,7 +299,9 @@
       "id": "244",
       "attributes": {
         "date": "2020-03-29T10:00:00-04:00",
-        "cases": 301
+        "cases": 301,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -290,7 +320,9 @@
       "id": "266",
       "attributes": {
         "date": "2020-03-30T10:00:00-04:00",
-        "cases": 341
+        "cases": 341,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -309,7 +341,9 @@
       "id": "288",
       "attributes": {
         "date": "2020-03-31T10:00:00-04:00",
-        "cases": 388
+        "cases": 388,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -328,7 +362,9 @@
       "id": "311",
       "attributes": {
         "date": "2020-04-01T10:00:00-04:00",
-        "cases": 447
+        "cases": 447,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -347,7 +383,9 @@
       "id": "335",
       "attributes": {
         "date": "2020-04-02T10:00:00-04:00",
-        "cases": 498
+        "cases": 498,
+        "deaths": 0,
+        "pre-death-reporting": true
       },
       "relationships": {
         "county": {
@@ -366,7 +404,9 @@
       "id": "359",
       "attributes": {
         "date": "2020-04-03T10:00:00-04:00",
-        "cases": 566
+        "cases": 566,
+        "deaths": 9,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -385,7 +425,9 @@
       "id": "383",
       "attributes": {
         "date": "2020-04-04T10:00:00-04:00",
-        "cases": 640
+        "cases": 640,
+        "deaths": 9,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -404,7 +446,9 @@
       "id": "407",
       "attributes": {
         "date": "2020-04-05T10:00:00-04:00",
-        "cases": 693
+        "cases": 693,
+        "deaths": 13,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -423,7 +467,9 @@
       "id": "431",
       "attributes": {
         "date": "2020-04-06T10:00:00-04:00",
-        "cases": 793
+        "cases": 793,
+        "deaths": 19,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -442,7 +488,9 @@
       "id": "455",
       "attributes": {
         "date": "2020-04-07T10:00:00-04:00",
-        "cases": 871
+        "cases": 871,
+        "deaths": 21,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -461,7 +509,9 @@
       "id": "479",
       "attributes": {
         "date": "2020-04-08T10:00:00-04:00",
-        "cases": 1088
+        "cases": 1088,
+        "deaths": 26,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -480,7 +530,9 @@
       "id": "503",
       "attributes": {
         "date": "2020-04-09T10:00:00-04:00",
-        "cases": 1214
+        "cases": 1214,
+        "deaths": 29,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -499,7 +551,9 @@
       "id": "527",
       "attributes": {
         "date": "2020-04-10T10:00:00-04:00",
-        "cases": 1388
+        "cases": 1388,
+        "deaths": 34,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -518,7 +572,9 @@
       "id": "551",
       "attributes": {
         "date": "2020-04-11T10:00:00-04:00",
-        "cases": 1537
+        "cases": 1537,
+        "deaths": 36,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -537,7 +593,9 @@
       "id": "575",
       "attributes": {
         "date": "2020-04-12T10:00:00-04:00",
-        "cases": 1631
+        "cases": 1631,
+        "deaths": 42,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -556,7 +614,9 @@
       "id": "599",
       "attributes": {
         "date": "2020-04-13T10:00:00-04:00",
-        "cases": 1756
+        "cases": 1756,
+        "deaths": 44,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -575,7 +635,9 @@
       "id": "623",
       "attributes": {
         "date": "2020-04-14T10:00:00-04:00",
-        "cases": 1883
+        "cases": 1883,
+        "deaths": 44,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -594,7 +656,9 @@
       "id": "647",
       "attributes": {
         "date": "2020-04-15T10:00:00-04:00",
-        "cases": 1933
+        "cases": 1933,
+        "deaths": 44,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {
@@ -613,7 +677,51 @@
       "id": "671",
       "attributes": {
         "date": "2020-04-16T10:00:00-04:00",
-        "cases": 2133
+        "cases": 2133,
+        "deaths": 56,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/17.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "17"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "695",
+      "attributes": {
+        "date": "2020-04-17T10:00:00-04:00",
+        "cases": 2280,
+        "deaths": 63,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/17.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "17"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "719",
+      "attributes": {
+        "date": "2020-04-18T10:00:00-04:00",
+        "cases": 2404,
+        "deaths": 70,
+        "pre-death-reporting": false
       },
       "relationships": {
         "county": {

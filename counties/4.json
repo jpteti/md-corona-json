@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Baltimore County",
       "population": 817455,
-      "current-cases": 1516
+      "current-cases": 1664
     },
     "relationships": {
       "reports": {
@@ -144,6 +144,14 @@
           {
             "type": "reports",
             "id": 658
+          },
+          {
+            "type": "reports",
+            "id": 682
+          },
+          {
+            "type": "reports",
+            "id": 706
           }
         ]
       }

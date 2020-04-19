@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Charles",
       "population": 150592,
-      "current-cases": 327
+      "current-cases": 347
     },
     "relationships": {
       "reports": {
@@ -144,6 +144,14 @@
           {
             "type": "reports",
             "id": 663
+          },
+          {
+            "type": "reports",
+            "id": 687
+          },
+          {
+            "type": "reports",
+            "id": 711
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Cecil",
       "population": 101696,
-      "current-cases": 101
+      "current-cases": 131
     },
     "relationships": {
       "reports": {
@@ -116,6 +116,14 @@
           {
             "type": "reports",
             "id": 662
+          },
+          {
+            "type": "reports",
+            "id": 686
+          },
+          {
+            "type": "reports",
+            "id": 710
           }
         ]
       }

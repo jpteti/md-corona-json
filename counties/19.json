@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Somerset",
       "population": 26253,
-      "current-cases": 6
+      "current-cases": 10
     },
     "relationships": {
       "reports": {
@@ -116,6 +116,14 @@
           {
             "type": "reports",
             "id": 673
+          },
+          {
+            "type": "reports",
+            "id": 697
+          },
+          {
+            "type": "reports",
+            "id": 721
           }
         ]
       }

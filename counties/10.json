@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Dorchester",
       "population": 32551,
-      "current-cases": 18
+      "current-cases": 20
     },
     "relationships": {
       "reports": {
@@ -76,6 +76,14 @@
           {
             "type": "reports",
             "id": 664
+          },
+          {
+            "type": "reports",
+            "id": 688
+          },
+          {
+            "type": "reports",
+            "id": 712
           }
         ]
       }

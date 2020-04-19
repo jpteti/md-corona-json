@@ -4,7 +4,9 @@
     "id": "647",
     "attributes": {
       "date": "2020-04-15T10:00:00-04:00",
-      "cases": 1933
+      "cases": 1933,
+      "deaths": 44,
+      "pre-death-reporting": false
     },
     "relationships": {
       "county": {
