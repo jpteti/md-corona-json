@@ -650,6 +650,48 @@
           }
         }
       }
+    },
+    {
+      "type": "reports",
+      "id": "731",
+      "attributes": {
+        "date": "2020-04-19T10:00:00-04:00",
+        "cases": 113,
+        "deaths": 3,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/5.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "5"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "755",
+      "attributes": {
+        "date": "2020-04-20T10:00:00-04:00",
+        "cases": 114,
+        "deaths": 3,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/5.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "5"
+          }
+        }
+      }
     }
   ]
 }

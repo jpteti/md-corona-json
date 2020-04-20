@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Carroll",
       "population": 167217,
-      "current-cases": 308
+      "current-cases": 335
     },
     "relationships": {
       "reports": {
@@ -152,6 +152,14 @@
           {
             "type": "reports",
             "id": 709
+          },
+          {
+            "type": "reports",
+            "id": 733
+          },
+          {
+            "type": "reports",
+            "id": 757
           }
         ]
       }

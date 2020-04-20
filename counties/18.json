@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Queen Anne's",
       "population": 48595,
-      "current-cases": 24
+      "current-cases": 26
     },
     "relationships": {
       "reports": {
@@ -120,6 +120,14 @@
           {
             "type": "reports",
             "id": 720
+          },
+          {
+            "type": "reports",
+            "id": 744
+          },
+          {
+            "type": "reports",
+            "id": 768
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Allegany",
       "population": 74012,
-      "current-cases": 33
+      "current-cases": 32
     },
     "relationships": {
       "reports": {
@@ -80,6 +80,14 @@
           {
             "type": "reports",
             "id": 703
+          },
+          {
+            "type": "reports",
+            "id": 727
+          },
+          {
+            "type": "reports",
+            "id": 751
           }
         ]
       }

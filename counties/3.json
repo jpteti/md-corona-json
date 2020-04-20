@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Baltimore City",
       "population": 621342,
-      "current-cases": 1378
+      "current-cases": 1511
     },
     "relationships": {
       "reports": {
@@ -152,6 +152,14 @@
           {
             "type": "reports",
             "id": 705
+          },
+          {
+            "type": "reports",
+            "id": 729
+          },
+          {
+            "type": "reports",
+            "id": 753
           }
         ]
       }
