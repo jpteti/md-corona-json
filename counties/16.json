@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Prince George's",
       "population": 881138,
-      "current-cases": 3583
+      "current-cases": 4987
     },
     "relationships": {
       "reports": {
@@ -160,6 +160,30 @@
           {
             "type": "reports",
             "id": 766
+          },
+          {
+            "type": "reports",
+            "id": 790
+          },
+          {
+            "type": "reports",
+            "id": 814
+          },
+          {
+            "type": "reports",
+            "id": 838
+          },
+          {
+            "type": "reports",
+            "id": 862
+          },
+          {
+            "type": "reports",
+            "id": 886
+          },
+          {
+            "type": "reports",
+            "id": 910
           }
         ]
       }

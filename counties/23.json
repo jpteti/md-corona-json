@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Wicomico",
       "population": 100647,
-      "current-cases": 166
+      "current-cases": 270
     },
     "relationships": {
       "reports": {
@@ -140,6 +140,30 @@
           {
             "type": "reports",
             "id": 773
+          },
+          {
+            "type": "reports",
+            "id": 797
+          },
+          {
+            "type": "reports",
+            "id": 821
+          },
+          {
+            "type": "reports",
+            "id": 845
+          },
+          {
+            "type": "reports",
+            "id": 869
+          },
+          {
+            "type": "reports",
+            "id": 893
+          },
+          {
+            "type": "reports",
+            "id": 917
           }
         ]
       }

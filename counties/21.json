@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Talbot",
       "population": 38098,
-      "current-cases": 22
+      "current-cases": 34
     },
     "relationships": {
       "reports": {
@@ -156,6 +156,30 @@
           {
             "type": "reports",
             "id": 771
+          },
+          {
+            "type": "reports",
+            "id": 795
+          },
+          {
+            "type": "reports",
+            "id": 819
+          },
+          {
+            "type": "reports",
+            "id": 843
+          },
+          {
+            "type": "reports",
+            "id": 867
+          },
+          {
+            "type": "reports",
+            "id": 891
+          },
+          {
+            "type": "reports",
+            "id": 915
           }
         ]
       }

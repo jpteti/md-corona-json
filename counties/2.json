@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Anne Arundel",
       "population": 550488,
-      "current-cases": 1098
+      "current-cases": 1510
     },
     "relationships": {
       "reports": {
@@ -160,6 +160,30 @@
           {
             "type": "reports",
             "id": 752
+          },
+          {
+            "type": "reports",
+            "id": 776
+          },
+          {
+            "type": "reports",
+            "id": 800
+          },
+          {
+            "type": "reports",
+            "id": 824
+          },
+          {
+            "type": "reports",
+            "id": 848
+          },
+          {
+            "type": "reports",
+            "id": 872
+          },
+          {
+            "type": "reports",
+            "id": 896
           }
         ]
       }

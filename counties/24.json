@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Worcester",
       "population": 51578,
-      "current-cases": 34
+      "current-cases": 48
     },
     "relationships": {
       "reports": {
@@ -140,6 +140,30 @@
           {
             "type": "reports",
             "id": 774
+          },
+          {
+            "type": "reports",
+            "id": 798
+          },
+          {
+            "type": "reports",
+            "id": 822
+          },
+          {
+            "type": "reports",
+            "id": 846
+          },
+          {
+            "type": "reports",
+            "id": 870
+          },
+          {
+            "type": "reports",
+            "id": 894
+          },
+          {
+            "type": "reports",
+            "id": 918
           }
         ]
       }

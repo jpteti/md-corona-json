@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Montgomery",
       "population": 1004709,
-      "current-cases": 2647
+      "current-cases": 3645
     },
     "relationships": {
       "reports": {
@@ -160,6 +160,30 @@
           {
             "type": "reports",
             "id": 767
+          },
+          {
+            "type": "reports",
+            "id": 791
+          },
+          {
+            "type": "reports",
+            "id": 815
+          },
+          {
+            "type": "reports",
+            "id": 839
+          },
+          {
+            "type": "reports",
+            "id": 863
+          },
+          {
+            "type": "reports",
+            "id": 887
+          },
+          {
+            "type": "reports",
+            "id": 911
           }
         ]
       }

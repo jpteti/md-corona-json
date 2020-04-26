@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Caroline",
       "population": 32718,
-      "current-cases": 39
+      "current-cases": 63
     },
     "relationships": {
       "reports": {
@@ -132,6 +132,30 @@
           {
             "type": "reports",
             "id": 756
+          },
+          {
+            "type": "reports",
+            "id": 780
+          },
+          {
+            "type": "reports",
+            "id": 804
+          },
+          {
+            "type": "reports",
+            "id": 828
+          },
+          {
+            "type": "reports",
+            "id": 852
+          },
+          {
+            "type": "reports",
+            "id": 876
+          },
+          {
+            "type": "reports",
+            "id": 900
           }
         ]
       }

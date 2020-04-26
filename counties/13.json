@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Harford",
       "population": 248622,
-      "current-cases": 226
+      "current-cases": 319
     },
     "relationships": {
       "reports": {
@@ -160,6 +160,30 @@
           {
             "type": "reports",
             "id": 763
+          },
+          {
+            "type": "reports",
+            "id": 787
+          },
+          {
+            "type": "reports",
+            "id": 811
+          },
+          {
+            "type": "reports",
+            "id": 835
+          },
+          {
+            "type": "reports",
+            "id": 859
+          },
+          {
+            "type": "reports",
+            "id": 883
+          },
+          {
+            "type": "reports",
+            "id": 907
           }
         ]
       }

@@ -6,7 +6,7 @@
       "attributes": {
         "name": "Allegany",
         "population": 74012,
-        "current-cases": 32
+        "current-cases": 113
       },
       "relationships": {
         "reports": {
@@ -89,6 +89,30 @@
             {
               "type": "reports",
               "id": 751
+            },
+            {
+              "type": "reports",
+              "id": 775
+            },
+            {
+              "type": "reports",
+              "id": 799
+            },
+            {
+              "type": "reports",
+              "id": 823
+            },
+            {
+              "type": "reports",
+              "id": 847
+            },
+            {
+              "type": "reports",
+              "id": 871
+            },
+            {
+              "type": "reports",
+              "id": 895
             }
           ]
         }
@@ -100,7 +124,7 @@
       "attributes": {
         "name": "Anne Arundel",
         "population": 550488,
-        "current-cases": 1098
+        "current-cases": 1510
       },
       "relationships": {
         "reports": {
@@ -255,6 +279,30 @@
             {
               "type": "reports",
               "id": 752
+            },
+            {
+              "type": "reports",
+              "id": 776
+            },
+            {
+              "type": "reports",
+              "id": 800
+            },
+            {
+              "type": "reports",
+              "id": 824
+            },
+            {
+              "type": "reports",
+              "id": 848
+            },
+            {
+              "type": "reports",
+              "id": 872
+            },
+            {
+              "type": "reports",
+              "id": 896
             }
           ]
         }
@@ -266,7 +314,7 @@
       "attributes": {
         "name": "Baltimore City",
         "population": 621342,
-        "current-cases": 1511
+        "current-cases": 1866
       },
       "relationships": {
         "reports": {
@@ -421,6 +469,30 @@
             {
               "type": "reports",
               "id": 753
+            },
+            {
+              "type": "reports",
+              "id": 777
+            },
+            {
+              "type": "reports",
+              "id": 801
+            },
+            {
+              "type": "reports",
+              "id": 825
+            },
+            {
+              "type": "reports",
+              "id": 849
+            },
+            {
+              "type": "reports",
+              "id": 873
+            },
+            {
+              "type": "reports",
+              "id": 897
             }
           ]
         }
@@ -432,7 +504,7 @@
       "attributes": {
         "name": "Baltimore County",
         "population": 817455,
-        "current-cases": 1875
+        "current-cases": 2509
       },
       "relationships": {
         "reports": {
@@ -587,6 +659,30 @@
             {
               "type": "reports",
               "id": 754
+            },
+            {
+              "type": "reports",
+              "id": 778
+            },
+            {
+              "type": "reports",
+              "id": 802
+            },
+            {
+              "type": "reports",
+              "id": 826
+            },
+            {
+              "type": "reports",
+              "id": 850
+            },
+            {
+              "type": "reports",
+              "id": 874
+            },
+            {
+              "type": "reports",
+              "id": 898
             }
           ]
         }
@@ -598,7 +694,7 @@
       "attributes": {
         "name": "Calvert",
         "population": 89628,
-        "current-cases": 114
+        "current-cases": 134
       },
       "relationships": {
         "reports": {
@@ -737,6 +833,30 @@
             {
               "type": "reports",
               "id": 755
+            },
+            {
+              "type": "reports",
+              "id": 779
+            },
+            {
+              "type": "reports",
+              "id": 803
+            },
+            {
+              "type": "reports",
+              "id": 827
+            },
+            {
+              "type": "reports",
+              "id": 851
+            },
+            {
+              "type": "reports",
+              "id": 875
+            },
+            {
+              "type": "reports",
+              "id": 899
             }
           ]
         }
@@ -748,7 +868,7 @@
       "attributes": {
         "name": "Caroline",
         "population": 32718,
-        "current-cases": 39
+        "current-cases": 63
       },
       "relationships": {
         "reports": {
@@ -875,6 +995,30 @@
             {
               "type": "reports",
               "id": 756
+            },
+            {
+              "type": "reports",
+              "id": 780
+            },
+            {
+              "type": "reports",
+              "id": 804
+            },
+            {
+              "type": "reports",
+              "id": 828
+            },
+            {
+              "type": "reports",
+              "id": 852
+            },
+            {
+              "type": "reports",
+              "id": 876
+            },
+            {
+              "type": "reports",
+              "id": 900
             }
           ]
         }
@@ -886,7 +1030,7 @@
       "attributes": {
         "name": "Carroll",
         "population": 167217,
-        "current-cases": 335
+        "current-cases": 391
       },
       "relationships": {
         "reports": {
@@ -1041,6 +1185,30 @@
             {
               "type": "reports",
               "id": 757
+            },
+            {
+              "type": "reports",
+              "id": 781
+            },
+            {
+              "type": "reports",
+              "id": 805
+            },
+            {
+              "type": "reports",
+              "id": 829
+            },
+            {
+              "type": "reports",
+              "id": 853
+            },
+            {
+              "type": "reports",
+              "id": 877
+            },
+            {
+              "type": "reports",
+              "id": 901
             }
           ]
         }
@@ -1052,7 +1220,7 @@
       "attributes": {
         "name": "Cecil",
         "population": 101696,
-        "current-cases": 134
+        "current-cases": 154
       },
       "relationships": {
         "reports": {
@@ -1179,6 +1347,30 @@
             {
               "type": "reports",
               "id": 758
+            },
+            {
+              "type": "reports",
+              "id": 782
+            },
+            {
+              "type": "reports",
+              "id": 806
+            },
+            {
+              "type": "reports",
+              "id": 830
+            },
+            {
+              "type": "reports",
+              "id": 854
+            },
+            {
+              "type": "reports",
+              "id": 878
+            },
+            {
+              "type": "reports",
+              "id": 902
             }
           ]
         }
@@ -1190,7 +1382,7 @@
       "attributes": {
         "name": "Charles",
         "population": 150592,
-        "current-cases": 392
+        "current-cases": 504
       },
       "relationships": {
         "reports": {
@@ -1345,6 +1537,30 @@
             {
               "type": "reports",
               "id": 759
+            },
+            {
+              "type": "reports",
+              "id": 783
+            },
+            {
+              "type": "reports",
+              "id": 807
+            },
+            {
+              "type": "reports",
+              "id": 831
+            },
+            {
+              "type": "reports",
+              "id": 855
+            },
+            {
+              "type": "reports",
+              "id": 879
+            },
+            {
+              "type": "reports",
+              "id": 903
             }
           ]
         }
@@ -1356,7 +1572,7 @@
       "attributes": {
         "name": "Dorchester",
         "population": 32551,
-        "current-cases": 23
+        "current-cases": 46
       },
       "relationships": {
         "reports": {
@@ -1443,6 +1659,30 @@
             {
               "type": "reports",
               "id": 760
+            },
+            {
+              "type": "reports",
+              "id": 784
+            },
+            {
+              "type": "reports",
+              "id": 808
+            },
+            {
+              "type": "reports",
+              "id": 832
+            },
+            {
+              "type": "reports",
+              "id": 856
+            },
+            {
+              "type": "reports",
+              "id": 880
+            },
+            {
+              "type": "reports",
+              "id": 904
             }
           ]
         }
@@ -1454,7 +1694,7 @@
       "attributes": {
         "name": "Frederick",
         "population": 239582,
-        "current-cases": 616
+        "current-cases": 834
       },
       "relationships": {
         "reports": {
@@ -1601,6 +1841,30 @@
             {
               "type": "reports",
               "id": 761
+            },
+            {
+              "type": "reports",
+              "id": 785
+            },
+            {
+              "type": "reports",
+              "id": 809
+            },
+            {
+              "type": "reports",
+              "id": 833
+            },
+            {
+              "type": "reports",
+              "id": 857
+            },
+            {
+              "type": "reports",
+              "id": 881
+            },
+            {
+              "type": "reports",
+              "id": 905
             }
           ]
         }
@@ -1735,6 +1999,30 @@
             {
               "type": "reports",
               "id": 762
+            },
+            {
+              "type": "reports",
+              "id": 786
+            },
+            {
+              "type": "reports",
+              "id": 810
+            },
+            {
+              "type": "reports",
+              "id": 834
+            },
+            {
+              "type": "reports",
+              "id": 858
+            },
+            {
+              "type": "reports",
+              "id": 882
+            },
+            {
+              "type": "reports",
+              "id": 906
             }
           ]
         }
@@ -1746,7 +2034,7 @@
       "attributes": {
         "name": "Harford",
         "population": 248622,
-        "current-cases": 226
+        "current-cases": 319
       },
       "relationships": {
         "reports": {
@@ -1901,6 +2189,30 @@
             {
               "type": "reports",
               "id": 763
+            },
+            {
+              "type": "reports",
+              "id": 787
+            },
+            {
+              "type": "reports",
+              "id": 811
+            },
+            {
+              "type": "reports",
+              "id": 835
+            },
+            {
+              "type": "reports",
+              "id": 859
+            },
+            {
+              "type": "reports",
+              "id": 883
+            },
+            {
+              "type": "reports",
+              "id": 907
             }
           ]
         }
@@ -1912,7 +2224,7 @@
       "attributes": {
         "name": "Howard",
         "population": 299430,
-        "current-cases": 538
+        "current-cases": 707
       },
       "relationships": {
         "reports": {
@@ -2063,6 +2375,30 @@
             {
               "type": "reports",
               "id": 764
+            },
+            {
+              "type": "reports",
+              "id": 788
+            },
+            {
+              "type": "reports",
+              "id": 812
+            },
+            {
+              "type": "reports",
+              "id": 836
+            },
+            {
+              "type": "reports",
+              "id": 860
+            },
+            {
+              "type": "reports",
+              "id": 884
+            },
+            {
+              "type": "reports",
+              "id": 908
             }
           ]
         }
@@ -2074,7 +2410,7 @@
       "attributes": {
         "name": "Kent",
         "population": 20191,
-        "current-cases": 28
+        "current-cases": 68
       },
       "relationships": {
         "reports": {
@@ -2189,6 +2525,30 @@
             {
               "type": "reports",
               "id": 765
+            },
+            {
+              "type": "reports",
+              "id": 789
+            },
+            {
+              "type": "reports",
+              "id": 813
+            },
+            {
+              "type": "reports",
+              "id": 837
+            },
+            {
+              "type": "reports",
+              "id": 861
+            },
+            {
+              "type": "reports",
+              "id": 885
+            },
+            {
+              "type": "reports",
+              "id": 909
             }
           ]
         }
@@ -2200,7 +2560,7 @@
       "attributes": {
         "name": "Prince George's",
         "population": 881138,
-        "current-cases": 3583
+        "current-cases": 4987
       },
       "relationships": {
         "reports": {
@@ -2355,6 +2715,30 @@
             {
               "type": "reports",
               "id": 766
+            },
+            {
+              "type": "reports",
+              "id": 790
+            },
+            {
+              "type": "reports",
+              "id": 814
+            },
+            {
+              "type": "reports",
+              "id": 838
+            },
+            {
+              "type": "reports",
+              "id": 862
+            },
+            {
+              "type": "reports",
+              "id": 886
+            },
+            {
+              "type": "reports",
+              "id": 910
             }
           ]
         }
@@ -2366,7 +2750,7 @@
       "attributes": {
         "name": "Montgomery",
         "population": 1004709,
-        "current-cases": 2647
+        "current-cases": 3645
       },
       "relationships": {
         "reports": {
@@ -2521,6 +2905,30 @@
             {
               "type": "reports",
               "id": 767
+            },
+            {
+              "type": "reports",
+              "id": 791
+            },
+            {
+              "type": "reports",
+              "id": 815
+            },
+            {
+              "type": "reports",
+              "id": 839
+            },
+            {
+              "type": "reports",
+              "id": 863
+            },
+            {
+              "type": "reports",
+              "id": 887
+            },
+            {
+              "type": "reports",
+              "id": 911
             }
           ]
         }
@@ -2532,7 +2940,7 @@
       "attributes": {
         "name": "Queen Anne's",
         "population": 48595,
-        "current-cases": 26
+        "current-cases": 53
       },
       "relationships": {
         "reports": {
@@ -2655,6 +3063,30 @@
             {
               "type": "reports",
               "id": 768
+            },
+            {
+              "type": "reports",
+              "id": 792
+            },
+            {
+              "type": "reports",
+              "id": 816
+            },
+            {
+              "type": "reports",
+              "id": 840
+            },
+            {
+              "type": "reports",
+              "id": 864
+            },
+            {
+              "type": "reports",
+              "id": 888
+            },
+            {
+              "type": "reports",
+              "id": 912
             }
           ]
         }
@@ -2666,7 +3098,7 @@
       "attributes": {
         "name": "Somerset",
         "population": 26253,
-        "current-cases": 11
+        "current-cases": 16
       },
       "relationships": {
         "reports": {
@@ -2793,6 +3225,30 @@
             {
               "type": "reports",
               "id": 769
+            },
+            {
+              "type": "reports",
+              "id": 793
+            },
+            {
+              "type": "reports",
+              "id": 817
+            },
+            {
+              "type": "reports",
+              "id": 841
+            },
+            {
+              "type": "reports",
+              "id": 865
+            },
+            {
+              "type": "reports",
+              "id": 889
+            },
+            {
+              "type": "reports",
+              "id": 913
             }
           ]
         }
@@ -2804,7 +3260,7 @@
       "attributes": {
         "name": "St. Mary's",
         "population": 108987,
-        "current-cases": 107
+        "current-cases": 133
       },
       "relationships": {
         "reports": {
@@ -2931,6 +3387,30 @@
             {
               "type": "reports",
               "id": 770
+            },
+            {
+              "type": "reports",
+              "id": 794
+            },
+            {
+              "type": "reports",
+              "id": 818
+            },
+            {
+              "type": "reports",
+              "id": 842
+            },
+            {
+              "type": "reports",
+              "id": 866
+            },
+            {
+              "type": "reports",
+              "id": 890
+            },
+            {
+              "type": "reports",
+              "id": 914
             }
           ]
         }
@@ -2942,7 +3422,7 @@
       "attributes": {
         "name": "Talbot",
         "population": 38098,
-        "current-cases": 22
+        "current-cases": 34
       },
       "relationships": {
         "reports": {
@@ -3093,6 +3573,30 @@
             {
               "type": "reports",
               "id": 771
+            },
+            {
+              "type": "reports",
+              "id": 795
+            },
+            {
+              "type": "reports",
+              "id": 819
+            },
+            {
+              "type": "reports",
+              "id": 843
+            },
+            {
+              "type": "reports",
+              "id": 867
+            },
+            {
+              "type": "reports",
+              "id": 891
+            },
+            {
+              "type": "reports",
+              "id": 915
             }
           ]
         }
@@ -3104,7 +3608,7 @@
       "attributes": {
         "name": "Washington",
         "population": 149180,
-        "current-cases": 123
+        "current-cases": 173
       },
       "relationships": {
         "reports": {
@@ -3231,6 +3735,30 @@
             {
               "type": "reports",
               "id": 772
+            },
+            {
+              "type": "reports",
+              "id": 796
+            },
+            {
+              "type": "reports",
+              "id": 820
+            },
+            {
+              "type": "reports",
+              "id": 844
+            },
+            {
+              "type": "reports",
+              "id": 868
+            },
+            {
+              "type": "reports",
+              "id": 892
+            },
+            {
+              "type": "reports",
+              "id": 916
             }
           ]
         }
@@ -3242,7 +3770,7 @@
       "attributes": {
         "name": "Wicomico",
         "population": 100647,
-        "current-cases": 166
+        "current-cases": 270
       },
       "relationships": {
         "reports": {
@@ -3377,6 +3905,30 @@
             {
               "type": "reports",
               "id": 773
+            },
+            {
+              "type": "reports",
+              "id": 797
+            },
+            {
+              "type": "reports",
+              "id": 821
+            },
+            {
+              "type": "reports",
+              "id": 845
+            },
+            {
+              "type": "reports",
+              "id": 869
+            },
+            {
+              "type": "reports",
+              "id": 893
+            },
+            {
+              "type": "reports",
+              "id": 917
             }
           ]
         }
@@ -3388,7 +3940,7 @@
       "attributes": {
         "name": "Worcester",
         "population": 51578,
-        "current-cases": 34
+        "current-cases": 48
       },
       "relationships": {
         "reports": {
@@ -3523,6 +4075,30 @@
             {
               "type": "reports",
               "id": 774
+            },
+            {
+              "type": "reports",
+              "id": 798
+            },
+            {
+              "type": "reports",
+              "id": 822
+            },
+            {
+              "type": "reports",
+              "id": 846
+            },
+            {
+              "type": "reports",
+              "id": 870
+            },
+            {
+              "type": "reports",
+              "id": 894
+            },
+            {
+              "type": "reports",
+              "id": 918
             }
           ]
         }

@@ -755,6 +755,132 @@
           }
         }
       }
+    },
+    {
+      "type": "reports",
+      "id": "788",
+      "attributes": {
+        "date": "2020-04-21T10:00:00-04:00",
+        "cases": 565,
+        "deaths": 12,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/14.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "14"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "812",
+      "attributes": {
+        "date": "2020-04-22T10:00:00-04:00",
+        "cases": 592,
+        "deaths": 13,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/14.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "14"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "836",
+      "attributes": {
+        "date": "2020-04-23T10:00:00-04:00",
+        "cases": 618,
+        "deaths": 14,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/14.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "14"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "860",
+      "attributes": {
+        "date": "2020-04-24T10:00:00-04:00",
+        "cases": 642,
+        "deaths": 14,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/14.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "14"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "884",
+      "attributes": {
+        "date": "2020-04-25T10:00:00-04:00",
+        "cases": 686,
+        "deaths": 15,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/14.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "14"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "908",
+      "attributes": {
+        "date": "2020-04-26T10:00:00-04:00",
+        "cases": 707,
+        "deaths": 15,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/14.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "14"
+          }
+        }
+      }
     }
   ]
 }
