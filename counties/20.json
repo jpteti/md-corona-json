@@ -5,7 +5,7 @@
     "attributes": {
       "name": "St. Mary's",
       "population": 108987,
-      "current-cases": 133
+      "current-cases": 313
     },
     "relationships": {
       "reports": {
@@ -156,6 +156,90 @@
           {
             "type": "reports",
             "id": 914
+          },
+          {
+            "type": "reports",
+            "id": 938
+          },
+          {
+            "type": "reports",
+            "id": 962
+          },
+          {
+            "type": "reports",
+            "id": 986
+          },
+          {
+            "type": "reports",
+            "id": 1010
+          },
+          {
+            "type": "reports",
+            "id": 1034
+          },
+          {
+            "type": "reports",
+            "id": 1058
+          },
+          {
+            "type": "reports",
+            "id": 1082
+          },
+          {
+            "type": "reports",
+            "id": 1106
+          },
+          {
+            "type": "reports",
+            "id": 1130
+          },
+          {
+            "type": "reports",
+            "id": 1154
+          },
+          {
+            "type": "reports",
+            "id": 1178
+          },
+          {
+            "type": "reports",
+            "id": 1202
+          },
+          {
+            "type": "reports",
+            "id": 1226
+          },
+          {
+            "type": "reports",
+            "id": 1250
+          },
+          {
+            "type": "reports",
+            "id": 1274
+          },
+          {
+            "type": "reports",
+            "id": 1298
+          },
+          {
+            "type": "reports",
+            "id": 1322
+          },
+          {
+            "type": "reports",
+            "id": 1346
+          },
+          {
+            "type": "reports",
+            "id": 1370
+          },
+          {
+            "type": "reports",
+            "id": 1394
+          },
+          {
+            "type": "reports",
+            "id": 1418
           }
         ]
       }

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "type": "reports",
+    "id": "952",
+    "attributes": {
+      "date": "2020-04-28T10:00:00-04:00",
+      "cases": 51,
+      "deaths": 2,
+      "pre-death-reporting": false
+    },
+    "relationships": {
+      "county": {
+        "links": {
+          "related": "https://corona-api.jpteti.com/counties/10.json"
+        },
+        "data": {
+          "type": "counties",
+          "id": "10"
+        }
+      }
+    }
+  }
+}

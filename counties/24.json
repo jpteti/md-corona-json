@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Worcester",
       "population": 51578,
-      "current-cases": 48
+      "current-cases": 137
     },
     "relationships": {
       "reports": {
@@ -164,6 +164,90 @@
           {
             "type": "reports",
             "id": 918
+          },
+          {
+            "type": "reports",
+            "id": 942
+          },
+          {
+            "type": "reports",
+            "id": 966
+          },
+          {
+            "type": "reports",
+            "id": 990
+          },
+          {
+            "type": "reports",
+            "id": 1014
+          },
+          {
+            "type": "reports",
+            "id": 1038
+          },
+          {
+            "type": "reports",
+            "id": 1062
+          },
+          {
+            "type": "reports",
+            "id": 1086
+          },
+          {
+            "type": "reports",
+            "id": 1110
+          },
+          {
+            "type": "reports",
+            "id": 1134
+          },
+          {
+            "type": "reports",
+            "id": 1158
+          },
+          {
+            "type": "reports",
+            "id": 1182
+          },
+          {
+            "type": "reports",
+            "id": 1206
+          },
+          {
+            "type": "reports",
+            "id": 1230
+          },
+          {
+            "type": "reports",
+            "id": 1254
+          },
+          {
+            "type": "reports",
+            "id": 1278
+          },
+          {
+            "type": "reports",
+            "id": 1302
+          },
+          {
+            "type": "reports",
+            "id": 1326
+          },
+          {
+            "type": "reports",
+            "id": 1350
+          },
+          {
+            "type": "reports",
+            "id": 1374
+          },
+          {
+            "type": "reports",
+            "id": 1398
+          },
+          {
+            "type": "reports",
+            "id": 1422
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Prince George's",
       "population": 881138,
-      "current-cases": 4987
+      "current-cases": 11316
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 910
+          },
+          {
+            "type": "reports",
+            "id": 934
+          },
+          {
+            "type": "reports",
+            "id": 958
+          },
+          {
+            "type": "reports",
+            "id": 982
+          },
+          {
+            "type": "reports",
+            "id": 1006
+          },
+          {
+            "type": "reports",
+            "id": 1030
+          },
+          {
+            "type": "reports",
+            "id": 1054
+          },
+          {
+            "type": "reports",
+            "id": 1078
+          },
+          {
+            "type": "reports",
+            "id": 1102
+          },
+          {
+            "type": "reports",
+            "id": 1126
+          },
+          {
+            "type": "reports",
+            "id": 1150
+          },
+          {
+            "type": "reports",
+            "id": 1174
+          },
+          {
+            "type": "reports",
+            "id": 1198
+          },
+          {
+            "type": "reports",
+            "id": 1222
+          },
+          {
+            "type": "reports",
+            "id": 1246
+          },
+          {
+            "type": "reports",
+            "id": 1270
+          },
+          {
+            "type": "reports",
+            "id": 1294
+          },
+          {
+            "type": "reports",
+            "id": 1318
+          },
+          {
+            "type": "reports",
+            "id": 1342
+          },
+          {
+            "type": "reports",
+            "id": 1366
+          },
+          {
+            "type": "reports",
+            "id": 1390
+          },
+          {
+            "type": "reports",
+            "id": 1414
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Dorchester",
       "population": 32551,
-      "current-cases": 46
+      "current-cases": 111
     },
     "relationships": {
       "reports": {
@@ -116,6 +116,90 @@
           {
             "type": "reports",
             "id": 904
+          },
+          {
+            "type": "reports",
+            "id": 928
+          },
+          {
+            "type": "reports",
+            "id": 952
+          },
+          {
+            "type": "reports",
+            "id": 976
+          },
+          {
+            "type": "reports",
+            "id": 1000
+          },
+          {
+            "type": "reports",
+            "id": 1024
+          },
+          {
+            "type": "reports",
+            "id": 1048
+          },
+          {
+            "type": "reports",
+            "id": 1072
+          },
+          {
+            "type": "reports",
+            "id": 1096
+          },
+          {
+            "type": "reports",
+            "id": 1120
+          },
+          {
+            "type": "reports",
+            "id": 1144
+          },
+          {
+            "type": "reports",
+            "id": 1168
+          },
+          {
+            "type": "reports",
+            "id": 1192
+          },
+          {
+            "type": "reports",
+            "id": 1216
+          },
+          {
+            "type": "reports",
+            "id": 1240
+          },
+          {
+            "type": "reports",
+            "id": 1264
+          },
+          {
+            "type": "reports",
+            "id": 1288
+          },
+          {
+            "type": "reports",
+            "id": 1312
+          },
+          {
+            "type": "reports",
+            "id": 1336
+          },
+          {
+            "type": "reports",
+            "id": 1360
+          },
+          {
+            "type": "reports",
+            "id": 1384
+          },
+          {
+            "type": "reports",
+            "id": 1408
           }
         ]
       }

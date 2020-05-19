@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Wicomico",
       "population": 100647,
-      "current-cases": 270
+      "current-cases": 818
     },
     "relationships": {
       "reports": {
@@ -164,6 +164,90 @@
           {
             "type": "reports",
             "id": 917
+          },
+          {
+            "type": "reports",
+            "id": 941
+          },
+          {
+            "type": "reports",
+            "id": 965
+          },
+          {
+            "type": "reports",
+            "id": 989
+          },
+          {
+            "type": "reports",
+            "id": 1013
+          },
+          {
+            "type": "reports",
+            "id": 1037
+          },
+          {
+            "type": "reports",
+            "id": 1061
+          },
+          {
+            "type": "reports",
+            "id": 1085
+          },
+          {
+            "type": "reports",
+            "id": 1109
+          },
+          {
+            "type": "reports",
+            "id": 1133
+          },
+          {
+            "type": "reports",
+            "id": 1157
+          },
+          {
+            "type": "reports",
+            "id": 1181
+          },
+          {
+            "type": "reports",
+            "id": 1205
+          },
+          {
+            "type": "reports",
+            "id": 1229
+          },
+          {
+            "type": "reports",
+            "id": 1253
+          },
+          {
+            "type": "reports",
+            "id": 1277
+          },
+          {
+            "type": "reports",
+            "id": 1301
+          },
+          {
+            "type": "reports",
+            "id": 1325
+          },
+          {
+            "type": "reports",
+            "id": 1349
+          },
+          {
+            "type": "reports",
+            "id": 1373
+          },
+          {
+            "type": "reports",
+            "id": 1397
+          },
+          {
+            "type": "reports",
+            "id": 1421
           }
         ]
       }

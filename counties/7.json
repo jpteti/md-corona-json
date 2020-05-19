@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Carroll",
       "population": 167217,
-      "current-cases": 391
+      "current-cases": 646
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 901
+          },
+          {
+            "type": "reports",
+            "id": 925
+          },
+          {
+            "type": "reports",
+            "id": 949
+          },
+          {
+            "type": "reports",
+            "id": 973
+          },
+          {
+            "type": "reports",
+            "id": 997
+          },
+          {
+            "type": "reports",
+            "id": 1021
+          },
+          {
+            "type": "reports",
+            "id": 1045
+          },
+          {
+            "type": "reports",
+            "id": 1069
+          },
+          {
+            "type": "reports",
+            "id": 1093
+          },
+          {
+            "type": "reports",
+            "id": 1117
+          },
+          {
+            "type": "reports",
+            "id": 1141
+          },
+          {
+            "type": "reports",
+            "id": 1165
+          },
+          {
+            "type": "reports",
+            "id": 1189
+          },
+          {
+            "type": "reports",
+            "id": 1213
+          },
+          {
+            "type": "reports",
+            "id": 1237
+          },
+          {
+            "type": "reports",
+            "id": 1261
+          },
+          {
+            "type": "reports",
+            "id": 1285
+          },
+          {
+            "type": "reports",
+            "id": 1309
+          },
+          {
+            "type": "reports",
+            "id": 1333
+          },
+          {
+            "type": "reports",
+            "id": 1357
+          },
+          {
+            "type": "reports",
+            "id": 1381
+          },
+          {
+            "type": "reports",
+            "id": 1405
           }
         ]
       }

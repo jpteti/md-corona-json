@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Harford",
       "population": 248622,
-      "current-cases": 319
+      "current-cases": 687
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 907
+          },
+          {
+            "type": "reports",
+            "id": 931
+          },
+          {
+            "type": "reports",
+            "id": 955
+          },
+          {
+            "type": "reports",
+            "id": 979
+          },
+          {
+            "type": "reports",
+            "id": 1003
+          },
+          {
+            "type": "reports",
+            "id": 1027
+          },
+          {
+            "type": "reports",
+            "id": 1051
+          },
+          {
+            "type": "reports",
+            "id": 1075
+          },
+          {
+            "type": "reports",
+            "id": 1099
+          },
+          {
+            "type": "reports",
+            "id": 1123
+          },
+          {
+            "type": "reports",
+            "id": 1147
+          },
+          {
+            "type": "reports",
+            "id": 1171
+          },
+          {
+            "type": "reports",
+            "id": 1195
+          },
+          {
+            "type": "reports",
+            "id": 1219
+          },
+          {
+            "type": "reports",
+            "id": 1243
+          },
+          {
+            "type": "reports",
+            "id": 1267
+          },
+          {
+            "type": "reports",
+            "id": 1291
+          },
+          {
+            "type": "reports",
+            "id": 1315
+          },
+          {
+            "type": "reports",
+            "id": 1339
+          },
+          {
+            "type": "reports",
+            "id": 1363
+          },
+          {
+            "type": "reports",
+            "id": 1387
+          },
+          {
+            "type": "reports",
+            "id": 1411
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Baltimore City",
       "population": 621342,
-      "current-cases": 1866
+      "current-cases": 3798
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 897
+          },
+          {
+            "type": "reports",
+            "id": 921
+          },
+          {
+            "type": "reports",
+            "id": 945
+          },
+          {
+            "type": "reports",
+            "id": 969
+          },
+          {
+            "type": "reports",
+            "id": 993
+          },
+          {
+            "type": "reports",
+            "id": 1017
+          },
+          {
+            "type": "reports",
+            "id": 1041
+          },
+          {
+            "type": "reports",
+            "id": 1065
+          },
+          {
+            "type": "reports",
+            "id": 1089
+          },
+          {
+            "type": "reports",
+            "id": 1113
+          },
+          {
+            "type": "reports",
+            "id": 1137
+          },
+          {
+            "type": "reports",
+            "id": 1161
+          },
+          {
+            "type": "reports",
+            "id": 1185
+          },
+          {
+            "type": "reports",
+            "id": 1209
+          },
+          {
+            "type": "reports",
+            "id": 1233
+          },
+          {
+            "type": "reports",
+            "id": 1257
+          },
+          {
+            "type": "reports",
+            "id": 1281
+          },
+          {
+            "type": "reports",
+            "id": 1305
+          },
+          {
+            "type": "reports",
+            "id": 1329
+          },
+          {
+            "type": "reports",
+            "id": 1353
+          },
+          {
+            "type": "reports",
+            "id": 1377
+          },
+          {
+            "type": "reports",
+            "id": 1401
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Kent",
       "population": 20191,
-      "current-cases": 68
+      "current-cases": 137
     },
     "relationships": {
       "reports": {
@@ -144,6 +144,90 @@
           {
             "type": "reports",
             "id": 909
+          },
+          {
+            "type": "reports",
+            "id": 933
+          },
+          {
+            "type": "reports",
+            "id": 957
+          },
+          {
+            "type": "reports",
+            "id": 981
+          },
+          {
+            "type": "reports",
+            "id": 1005
+          },
+          {
+            "type": "reports",
+            "id": 1029
+          },
+          {
+            "type": "reports",
+            "id": 1053
+          },
+          {
+            "type": "reports",
+            "id": 1077
+          },
+          {
+            "type": "reports",
+            "id": 1101
+          },
+          {
+            "type": "reports",
+            "id": 1125
+          },
+          {
+            "type": "reports",
+            "id": 1149
+          },
+          {
+            "type": "reports",
+            "id": 1173
+          },
+          {
+            "type": "reports",
+            "id": 1197
+          },
+          {
+            "type": "reports",
+            "id": 1221
+          },
+          {
+            "type": "reports",
+            "id": 1245
+          },
+          {
+            "type": "reports",
+            "id": 1269
+          },
+          {
+            "type": "reports",
+            "id": 1293
+          },
+          {
+            "type": "reports",
+            "id": 1317
+          },
+          {
+            "type": "reports",
+            "id": 1341
+          },
+          {
+            "type": "reports",
+            "id": 1365
+          },
+          {
+            "type": "reports",
+            "id": 1389
+          },
+          {
+            "type": "reports",
+            "id": 1413
           }
         ]
       }

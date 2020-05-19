@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Cecil",
       "population": 101696,
-      "current-cases": 154
+      "current-cases": 308
     },
     "relationships": {
       "reports": {
@@ -156,6 +156,90 @@
           {
             "type": "reports",
             "id": 902
+          },
+          {
+            "type": "reports",
+            "id": 926
+          },
+          {
+            "type": "reports",
+            "id": 950
+          },
+          {
+            "type": "reports",
+            "id": 974
+          },
+          {
+            "type": "reports",
+            "id": 998
+          },
+          {
+            "type": "reports",
+            "id": 1022
+          },
+          {
+            "type": "reports",
+            "id": 1046
+          },
+          {
+            "type": "reports",
+            "id": 1070
+          },
+          {
+            "type": "reports",
+            "id": 1094
+          },
+          {
+            "type": "reports",
+            "id": 1118
+          },
+          {
+            "type": "reports",
+            "id": 1142
+          },
+          {
+            "type": "reports",
+            "id": 1166
+          },
+          {
+            "type": "reports",
+            "id": 1190
+          },
+          {
+            "type": "reports",
+            "id": 1214
+          },
+          {
+            "type": "reports",
+            "id": 1238
+          },
+          {
+            "type": "reports",
+            "id": 1262
+          },
+          {
+            "type": "reports",
+            "id": 1286
+          },
+          {
+            "type": "reports",
+            "id": 1310
+          },
+          {
+            "type": "reports",
+            "id": 1334
+          },
+          {
+            "type": "reports",
+            "id": 1358
+          },
+          {
+            "type": "reports",
+            "id": 1382
+          },
+          {
+            "type": "reports",
+            "id": 1406
           }
         ]
       }

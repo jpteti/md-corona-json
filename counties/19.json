@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Somerset",
       "population": 26253,
-      "current-cases": 16
+      "current-cases": 57
     },
     "relationships": {
       "reports": {
@@ -156,6 +156,90 @@
           {
             "type": "reports",
             "id": 913
+          },
+          {
+            "type": "reports",
+            "id": 937
+          },
+          {
+            "type": "reports",
+            "id": 961
+          },
+          {
+            "type": "reports",
+            "id": 985
+          },
+          {
+            "type": "reports",
+            "id": 1009
+          },
+          {
+            "type": "reports",
+            "id": 1033
+          },
+          {
+            "type": "reports",
+            "id": 1057
+          },
+          {
+            "type": "reports",
+            "id": 1081
+          },
+          {
+            "type": "reports",
+            "id": 1105
+          },
+          {
+            "type": "reports",
+            "id": 1129
+          },
+          {
+            "type": "reports",
+            "id": 1153
+          },
+          {
+            "type": "reports",
+            "id": 1177
+          },
+          {
+            "type": "reports",
+            "id": 1201
+          },
+          {
+            "type": "reports",
+            "id": 1225
+          },
+          {
+            "type": "reports",
+            "id": 1249
+          },
+          {
+            "type": "reports",
+            "id": 1273
+          },
+          {
+            "type": "reports",
+            "id": 1297
+          },
+          {
+            "type": "reports",
+            "id": 1321
+          },
+          {
+            "type": "reports",
+            "id": 1345
+          },
+          {
+            "type": "reports",
+            "id": 1369
+          },
+          {
+            "type": "reports",
+            "id": 1393
+          },
+          {
+            "type": "reports",
+            "id": 1417
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Queen Anne's",
       "population": 48595,
-      "current-cases": 53
+      "current-cases": 125
     },
     "relationships": {
       "reports": {
@@ -152,6 +152,90 @@
           {
             "type": "reports",
             "id": 912
+          },
+          {
+            "type": "reports",
+            "id": 936
+          },
+          {
+            "type": "reports",
+            "id": 960
+          },
+          {
+            "type": "reports",
+            "id": 984
+          },
+          {
+            "type": "reports",
+            "id": 1008
+          },
+          {
+            "type": "reports",
+            "id": 1032
+          },
+          {
+            "type": "reports",
+            "id": 1056
+          },
+          {
+            "type": "reports",
+            "id": 1080
+          },
+          {
+            "type": "reports",
+            "id": 1104
+          },
+          {
+            "type": "reports",
+            "id": 1128
+          },
+          {
+            "type": "reports",
+            "id": 1152
+          },
+          {
+            "type": "reports",
+            "id": 1176
+          },
+          {
+            "type": "reports",
+            "id": 1200
+          },
+          {
+            "type": "reports",
+            "id": 1224
+          },
+          {
+            "type": "reports",
+            "id": 1248
+          },
+          {
+            "type": "reports",
+            "id": 1272
+          },
+          {
+            "type": "reports",
+            "id": 1296
+          },
+          {
+            "type": "reports",
+            "id": 1320
+          },
+          {
+            "type": "reports",
+            "id": 1344
+          },
+          {
+            "type": "reports",
+            "id": 1368
+          },
+          {
+            "type": "reports",
+            "id": 1392
+          },
+          {
+            "type": "reports",
+            "id": 1416
           }
         ]
       }

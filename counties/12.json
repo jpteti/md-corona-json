@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Garrett",
       "population": 29854,
-      "current-cases": 4
+      "current-cases": 6
     },
     "relationships": {
       "reports": {
@@ -152,6 +152,90 @@
           {
             "type": "reports",
             "id": 906
+          },
+          {
+            "type": "reports",
+            "id": 930
+          },
+          {
+            "type": "reports",
+            "id": 954
+          },
+          {
+            "type": "reports",
+            "id": 978
+          },
+          {
+            "type": "reports",
+            "id": 1002
+          },
+          {
+            "type": "reports",
+            "id": 1026
+          },
+          {
+            "type": "reports",
+            "id": 1050
+          },
+          {
+            "type": "reports",
+            "id": 1074
+          },
+          {
+            "type": "reports",
+            "id": 1098
+          },
+          {
+            "type": "reports",
+            "id": 1122
+          },
+          {
+            "type": "reports",
+            "id": 1146
+          },
+          {
+            "type": "reports",
+            "id": 1170
+          },
+          {
+            "type": "reports",
+            "id": 1194
+          },
+          {
+            "type": "reports",
+            "id": 1218
+          },
+          {
+            "type": "reports",
+            "id": 1242
+          },
+          {
+            "type": "reports",
+            "id": 1266
+          },
+          {
+            "type": "reports",
+            "id": 1290
+          },
+          {
+            "type": "reports",
+            "id": 1314
+          },
+          {
+            "type": "reports",
+            "id": 1338
+          },
+          {
+            "type": "reports",
+            "id": 1362
+          },
+          {
+            "type": "reports",
+            "id": 1386
+          },
+          {
+            "type": "reports",
+            "id": 1410
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Caroline",
       "population": 32718,
-      "current-cases": 63
+      "current-cases": 191
     },
     "relationships": {
       "reports": {
@@ -156,6 +156,90 @@
           {
             "type": "reports",
             "id": 900
+          },
+          {
+            "type": "reports",
+            "id": 924
+          },
+          {
+            "type": "reports",
+            "id": 948
+          },
+          {
+            "type": "reports",
+            "id": 972
+          },
+          {
+            "type": "reports",
+            "id": 996
+          },
+          {
+            "type": "reports",
+            "id": 1020
+          },
+          {
+            "type": "reports",
+            "id": 1044
+          },
+          {
+            "type": "reports",
+            "id": 1068
+          },
+          {
+            "type": "reports",
+            "id": 1092
+          },
+          {
+            "type": "reports",
+            "id": 1116
+          },
+          {
+            "type": "reports",
+            "id": 1140
+          },
+          {
+            "type": "reports",
+            "id": 1164
+          },
+          {
+            "type": "reports",
+            "id": 1188
+          },
+          {
+            "type": "reports",
+            "id": 1212
+          },
+          {
+            "type": "reports",
+            "id": 1236
+          },
+          {
+            "type": "reports",
+            "id": 1260
+          },
+          {
+            "type": "reports",
+            "id": 1284
+          },
+          {
+            "type": "reports",
+            "id": 1308
+          },
+          {
+            "type": "reports",
+            "id": 1332
+          },
+          {
+            "type": "reports",
+            "id": 1356
+          },
+          {
+            "type": "reports",
+            "id": 1380
+          },
+          {
+            "type": "reports",
+            "id": 1404
           }
         ]
       }

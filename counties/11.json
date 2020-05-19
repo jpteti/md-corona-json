@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Frederick",
       "population": 239582,
-      "current-cases": 834
+      "current-cases": 1423
     },
     "relationships": {
       "reports": {
@@ -176,6 +176,90 @@
           {
             "type": "reports",
             "id": 905
+          },
+          {
+            "type": "reports",
+            "id": 929
+          },
+          {
+            "type": "reports",
+            "id": 953
+          },
+          {
+            "type": "reports",
+            "id": 977
+          },
+          {
+            "type": "reports",
+            "id": 1001
+          },
+          {
+            "type": "reports",
+            "id": 1025
+          },
+          {
+            "type": "reports",
+            "id": 1049
+          },
+          {
+            "type": "reports",
+            "id": 1073
+          },
+          {
+            "type": "reports",
+            "id": 1097
+          },
+          {
+            "type": "reports",
+            "id": 1121
+          },
+          {
+            "type": "reports",
+            "id": 1145
+          },
+          {
+            "type": "reports",
+            "id": 1169
+          },
+          {
+            "type": "reports",
+            "id": 1193
+          },
+          {
+            "type": "reports",
+            "id": 1217
+          },
+          {
+            "type": "reports",
+            "id": 1241
+          },
+          {
+            "type": "reports",
+            "id": 1265
+          },
+          {
+            "type": "reports",
+            "id": 1289
+          },
+          {
+            "type": "reports",
+            "id": 1313
+          },
+          {
+            "type": "reports",
+            "id": 1337
+          },
+          {
+            "type": "reports",
+            "id": 1361
+          },
+          {
+            "type": "reports",
+            "id": 1385
+          },
+          {
+            "type": "reports",
+            "id": 1409
           }
         ]
       }

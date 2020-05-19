@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Allegany",
       "population": 74012,
-      "current-cases": 113
+      "current-cases": 161
     },
     "relationships": {
       "reports": {
@@ -112,6 +112,90 @@
           {
             "type": "reports",
             "id": 895
+          },
+          {
+            "type": "reports",
+            "id": 919
+          },
+          {
+            "type": "reports",
+            "id": 943
+          },
+          {
+            "type": "reports",
+            "id": 967
+          },
+          {
+            "type": "reports",
+            "id": 991
+          },
+          {
+            "type": "reports",
+            "id": 1015
+          },
+          {
+            "type": "reports",
+            "id": 1039
+          },
+          {
+            "type": "reports",
+            "id": 1063
+          },
+          {
+            "type": "reports",
+            "id": 1087
+          },
+          {
+            "type": "reports",
+            "id": 1111
+          },
+          {
+            "type": "reports",
+            "id": 1135
+          },
+          {
+            "type": "reports",
+            "id": 1159
+          },
+          {
+            "type": "reports",
+            "id": 1183
+          },
+          {
+            "type": "reports",
+            "id": 1207
+          },
+          {
+            "type": "reports",
+            "id": 1231
+          },
+          {
+            "type": "reports",
+            "id": 1255
+          },
+          {
+            "type": "reports",
+            "id": 1279
+          },
+          {
+            "type": "reports",
+            "id": 1303
+          },
+          {
+            "type": "reports",
+            "id": 1327
+          },
+          {
+            "type": "reports",
+            "id": 1351
+          },
+          {
+            "type": "reports",
+            "id": 1375
+          },
+          {
+            "type": "reports",
+            "id": 1399
           }
         ]
       }

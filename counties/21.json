@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Talbot",
       "population": 38098,
-      "current-cases": 34
+      "current-cases": 68
     },
     "relationships": {
       "reports": {
@@ -180,6 +180,90 @@
           {
             "type": "reports",
             "id": 915
+          },
+          {
+            "type": "reports",
+            "id": 939
+          },
+          {
+            "type": "reports",
+            "id": 963
+          },
+          {
+            "type": "reports",
+            "id": 987
+          },
+          {
+            "type": "reports",
+            "id": 1011
+          },
+          {
+            "type": "reports",
+            "id": 1035
+          },
+          {
+            "type": "reports",
+            "id": 1059
+          },
+          {
+            "type": "reports",
+            "id": 1083
+          },
+          {
+            "type": "reports",
+            "id": 1107
+          },
+          {
+            "type": "reports",
+            "id": 1131
+          },
+          {
+            "type": "reports",
+            "id": 1155
+          },
+          {
+            "type": "reports",
+            "id": 1179
+          },
+          {
+            "type": "reports",
+            "id": 1203
+          },
+          {
+            "type": "reports",
+            "id": 1227
+          },
+          {
+            "type": "reports",
+            "id": 1251
+          },
+          {
+            "type": "reports",
+            "id": 1275
+          },
+          {
+            "type": "reports",
+            "id": 1299
+          },
+          {
+            "type": "reports",
+            "id": 1323
+          },
+          {
+            "type": "reports",
+            "id": 1347
+          },
+          {
+            "type": "reports",
+            "id": 1371
+          },
+          {
+            "type": "reports",
+            "id": 1395
+          },
+          {
+            "type": "reports",
+            "id": 1419
           }
         ]
       }

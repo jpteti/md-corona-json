@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Washington",
       "population": 149180,
-      "current-cases": 173
+      "current-cases": 338
     },
     "relationships": {
       "reports": {
@@ -156,6 +156,90 @@
           {
             "type": "reports",
             "id": 916
+          },
+          {
+            "type": "reports",
+            "id": 940
+          },
+          {
+            "type": "reports",
+            "id": 964
+          },
+          {
+            "type": "reports",
+            "id": 988
+          },
+          {
+            "type": "reports",
+            "id": 1012
+          },
+          {
+            "type": "reports",
+            "id": 1036
+          },
+          {
+            "type": "reports",
+            "id": 1060
+          },
+          {
+            "type": "reports",
+            "id": 1084
+          },
+          {
+            "type": "reports",
+            "id": 1108
+          },
+          {
+            "type": "reports",
+            "id": 1132
+          },
+          {
+            "type": "reports",
+            "id": 1156
+          },
+          {
+            "type": "reports",
+            "id": 1180
+          },
+          {
+            "type": "reports",
+            "id": 1204
+          },
+          {
+            "type": "reports",
+            "id": 1228
+          },
+          {
+            "type": "reports",
+            "id": 1252
+          },
+          {
+            "type": "reports",
+            "id": 1276
+          },
+          {
+            "type": "reports",
+            "id": 1300
+          },
+          {
+            "type": "reports",
+            "id": 1324
+          },
+          {
+            "type": "reports",
+            "id": 1348
+          },
+          {
+            "type": "reports",
+            "id": 1372
+          },
+          {
+            "type": "reports",
+            "id": 1396
+          },
+          {
+            "type": "reports",
+            "id": 1420
           }
         ]
       }

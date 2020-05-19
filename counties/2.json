@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Anne Arundel",
       "population": 550488,
-      "current-cases": 1510
+      "current-cases": 2956
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 896
+          },
+          {
+            "type": "reports",
+            "id": 920
+          },
+          {
+            "type": "reports",
+            "id": 944
+          },
+          {
+            "type": "reports",
+            "id": 968
+          },
+          {
+            "type": "reports",
+            "id": 992
+          },
+          {
+            "type": "reports",
+            "id": 1016
+          },
+          {
+            "type": "reports",
+            "id": 1040
+          },
+          {
+            "type": "reports",
+            "id": 1064
+          },
+          {
+            "type": "reports",
+            "id": 1088
+          },
+          {
+            "type": "reports",
+            "id": 1112
+          },
+          {
+            "type": "reports",
+            "id": 1136
+          },
+          {
+            "type": "reports",
+            "id": 1160
+          },
+          {
+            "type": "reports",
+            "id": 1184
+          },
+          {
+            "type": "reports",
+            "id": 1208
+          },
+          {
+            "type": "reports",
+            "id": 1232
+          },
+          {
+            "type": "reports",
+            "id": 1256
+          },
+          {
+            "type": "reports",
+            "id": 1280
+          },
+          {
+            "type": "reports",
+            "id": 1304
+          },
+          {
+            "type": "reports",
+            "id": 1328
+          },
+          {
+            "type": "reports",
+            "id": 1352
+          },
+          {
+            "type": "reports",
+            "id": 1376
+          },
+          {
+            "type": "reports",
+            "id": 1400
           }
         ]
       }

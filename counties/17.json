@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Montgomery",
       "population": 1004709,
-      "current-cases": 3645
+      "current-cases": 8206
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 911
+          },
+          {
+            "type": "reports",
+            "id": 935
+          },
+          {
+            "type": "reports",
+            "id": 959
+          },
+          {
+            "type": "reports",
+            "id": 983
+          },
+          {
+            "type": "reports",
+            "id": 1007
+          },
+          {
+            "type": "reports",
+            "id": 1031
+          },
+          {
+            "type": "reports",
+            "id": 1055
+          },
+          {
+            "type": "reports",
+            "id": 1079
+          },
+          {
+            "type": "reports",
+            "id": 1103
+          },
+          {
+            "type": "reports",
+            "id": 1127
+          },
+          {
+            "type": "reports",
+            "id": 1151
+          },
+          {
+            "type": "reports",
+            "id": 1175
+          },
+          {
+            "type": "reports",
+            "id": 1199
+          },
+          {
+            "type": "reports",
+            "id": 1223
+          },
+          {
+            "type": "reports",
+            "id": 1247
+          },
+          {
+            "type": "reports",
+            "id": 1271
+          },
+          {
+            "type": "reports",
+            "id": 1295
+          },
+          {
+            "type": "reports",
+            "id": 1319
+          },
+          {
+            "type": "reports",
+            "id": 1343
+          },
+          {
+            "type": "reports",
+            "id": 1367
+          },
+          {
+            "type": "reports",
+            "id": 1391
+          },
+          {
+            "type": "reports",
+            "id": 1415
           }
         ]
       }

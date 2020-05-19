@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Calvert",
       "population": 89628,
-      "current-cases": 134
+      "current-cases": 241
     },
     "relationships": {
       "reports": {
@@ -168,6 +168,90 @@
           {
             "type": "reports",
             "id": 899
+          },
+          {
+            "type": "reports",
+            "id": 923
+          },
+          {
+            "type": "reports",
+            "id": 947
+          },
+          {
+            "type": "reports",
+            "id": 971
+          },
+          {
+            "type": "reports",
+            "id": 995
+          },
+          {
+            "type": "reports",
+            "id": 1019
+          },
+          {
+            "type": "reports",
+            "id": 1043
+          },
+          {
+            "type": "reports",
+            "id": 1067
+          },
+          {
+            "type": "reports",
+            "id": 1091
+          },
+          {
+            "type": "reports",
+            "id": 1115
+          },
+          {
+            "type": "reports",
+            "id": 1139
+          },
+          {
+            "type": "reports",
+            "id": 1163
+          },
+          {
+            "type": "reports",
+            "id": 1187
+          },
+          {
+            "type": "reports",
+            "id": 1211
+          },
+          {
+            "type": "reports",
+            "id": 1235
+          },
+          {
+            "type": "reports",
+            "id": 1259
+          },
+          {
+            "type": "reports",
+            "id": 1283
+          },
+          {
+            "type": "reports",
+            "id": 1307
+          },
+          {
+            "type": "reports",
+            "id": 1331
+          },
+          {
+            "type": "reports",
+            "id": 1355
+          },
+          {
+            "type": "reports",
+            "id": 1379
+          },
+          {
+            "type": "reports",
+            "id": 1403
           }
         ]
       }

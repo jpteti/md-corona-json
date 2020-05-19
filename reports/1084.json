@@ -1,0 +1,23 @@
+{
+  "data": {
+    "type": "reports",
+    "id": "1084",
+    "attributes": {
+      "date": "2020-05-03T10:00:00-04:00",
+      "cases": 232,
+      "deaths": 6,
+      "pre-death-reporting": false
+    },
+    "relationships": {
+      "county": {
+        "links": {
+          "related": "https://corona-api.jpteti.com/counties/22.json"
+        },
+        "data": {
+          "type": "counties",
+          "id": "22"
+        }
+      }
+    }
+  }
+}

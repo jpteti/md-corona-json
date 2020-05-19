@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Baltimore County",
       "population": 817455,
-      "current-cases": 2509
+      "current-cases": 4624
     },
     "relationships": {
       "reports": {
@@ -184,6 +184,90 @@
           {
             "type": "reports",
             "id": 898
+          },
+          {
+            "type": "reports",
+            "id": 922
+          },
+          {
+            "type": "reports",
+            "id": 946
+          },
+          {
+            "type": "reports",
+            "id": 970
+          },
+          {
+            "type": "reports",
+            "id": 994
+          },
+          {
+            "type": "reports",
+            "id": 1018
+          },
+          {
+            "type": "reports",
+            "id": 1042
+          },
+          {
+            "type": "reports",
+            "id": 1066
+          },
+          {
+            "type": "reports",
+            "id": 1090
+          },
+          {
+            "type": "reports",
+            "id": 1114
+          },
+          {
+            "type": "reports",
+            "id": 1138
+          },
+          {
+            "type": "reports",
+            "id": 1162
+          },
+          {
+            "type": "reports",
+            "id": 1186
+          },
+          {
+            "type": "reports",
+            "id": 1210
+          },
+          {
+            "type": "reports",
+            "id": 1234
+          },
+          {
+            "type": "reports",
+            "id": 1258
+          },
+          {
+            "type": "reports",
+            "id": 1282
+          },
+          {
+            "type": "reports",
+            "id": 1306
+          },
+          {
+            "type": "reports",
+            "id": 1330
+          },
+          {
+            "type": "reports",
+            "id": 1354
+          },
+          {
+            "type": "reports",
+            "id": 1378
+          },
+          {
+            "type": "reports",
+            "id": 1402
           }
         ]
       }
