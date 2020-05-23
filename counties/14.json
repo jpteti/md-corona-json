@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Howard",
       "population": 299430,
-      "current-cases": 1378
+      "current-cases": 1586
     },
     "relationships": {
       "reports": {
@@ -264,6 +264,26 @@
           {
             "type": "reports",
             "id": 1412
+          },
+          {
+            "type": "reports",
+            "id": 1436
+          },
+          {
+            "type": "reports",
+            "id": 1460
+          },
+          {
+            "type": "reports",
+            "id": 1484
+          },
+          {
+            "type": "reports",
+            "id": 1508
+          },
+          {
+            "type": "reports",
+            "id": 1532
           }
         ]
       }

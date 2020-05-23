@@ -5,7 +5,7 @@
     "attributes": {
       "name": "St. Mary's",
       "population": 108987,
-      "current-cases": 313
+      "current-cases": 370
     },
     "relationships": {
       "reports": {
@@ -240,6 +240,26 @@
           {
             "type": "reports",
             "id": 1418
+          },
+          {
+            "type": "reports",
+            "id": 1442
+          },
+          {
+            "type": "reports",
+            "id": 1466
+          },
+          {
+            "type": "reports",
+            "id": 1490
+          },
+          {
+            "type": "reports",
+            "id": 1514
+          },
+          {
+            "type": "reports",
+            "id": 1538
           }
         ]
       }

@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Garrett",
       "population": 29854,
-      "current-cases": 6
+      "current-cases": 7
     },
     "relationships": {
       "reports": {
@@ -236,6 +236,26 @@
           {
             "type": "reports",
             "id": 1410
+          },
+          {
+            "type": "reports",
+            "id": 1434
+          },
+          {
+            "type": "reports",
+            "id": 1458
+          },
+          {
+            "type": "reports",
+            "id": 1482
+          },
+          {
+            "type": "reports",
+            "id": 1506
+          },
+          {
+            "type": "reports",
+            "id": 1530
           }
         ]
       }

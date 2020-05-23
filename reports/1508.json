@@ -1,0 +1,23 @@
+{
+  "data": {
+    "type": "reports",
+    "id": "1508",
+    "attributes": {
+      "date": "2020-05-21T10:00:00-04:00",
+      "cases": 1548,
+      "deaths": 45,
+      "pre-death-reporting": false
+    },
+    "relationships": {
+      "county": {
+        "links": {
+          "related": "https://corona-api.jpteti.com/counties/14.json"
+        },
+        "data": {
+          "type": "counties",
+          "id": "14"
+        }
+      }
+    }
+  }
+}

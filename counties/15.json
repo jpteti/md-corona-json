@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Kent",
       "population": 20191,
-      "current-cases": 137
+      "current-cases": 146
     },
     "relationships": {
       "reports": {
@@ -228,6 +228,26 @@
           {
             "type": "reports",
             "id": 1413
+          },
+          {
+            "type": "reports",
+            "id": 1437
+          },
+          {
+            "type": "reports",
+            "id": 1461
+          },
+          {
+            "type": "reports",
+            "id": 1485
+          },
+          {
+            "type": "reports",
+            "id": 1509
+          },
+          {
+            "type": "reports",
+            "id": 1533
           }
         ]
       }

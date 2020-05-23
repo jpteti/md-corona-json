@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Calvert",
       "population": 89628,
-      "current-cases": 241
+      "current-cases": 291
     },
     "relationships": {
       "reports": {
@@ -252,6 +252,26 @@
           {
             "type": "reports",
             "id": 1403
+          },
+          {
+            "type": "reports",
+            "id": 1427
+          },
+          {
+            "type": "reports",
+            "id": 1451
+          },
+          {
+            "type": "reports",
+            "id": 1475
+          },
+          {
+            "type": "reports",
+            "id": 1499
+          },
+          {
+            "type": "reports",
+            "id": 1523
           }
         ]
       }

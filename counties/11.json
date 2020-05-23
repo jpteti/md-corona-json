@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Frederick",
       "population": 239582,
-      "current-cases": 1423
+      "current-cases": 1625
     },
     "relationships": {
       "reports": {
@@ -260,6 +260,26 @@
           {
             "type": "reports",
             "id": 1409
+          },
+          {
+            "type": "reports",
+            "id": 1433
+          },
+          {
+            "type": "reports",
+            "id": 1457
+          },
+          {
+            "type": "reports",
+            "id": 1481
+          },
+          {
+            "type": "reports",
+            "id": 1505
+          },
+          {
+            "type": "reports",
+            "id": 1529
           }
         ]
       }

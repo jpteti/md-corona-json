@@ -1343,6 +1343,111 @@
           }
         }
       }
+    },
+    {
+      "type": "reports",
+      "id": "1425",
+      "attributes": {
+        "date": "2020-05-18T10:00:00-04:00",
+        "cases": 3830,
+        "deaths": 200,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/3.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "3"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "1449",
+      "attributes": {
+        "date": "2020-05-19T10:00:00-04:00",
+        "cases": 4002,
+        "deaths": 202,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/3.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "3"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "1473",
+      "attributes": {
+        "date": "2020-05-20T10:00:00-04:00",
+        "cases": 4152,
+        "deaths": 208,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/3.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "3"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "1497",
+      "attributes": {
+        "date": "2020-05-21T10:00:00-04:00",
+        "cases": 4339,
+        "deaths": 210,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/3.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "3"
+          }
+        }
+      }
+    },
+    {
+      "type": "reports",
+      "id": "1521",
+      "attributes": {
+        "date": "2020-05-22T10:00:00-04:00",
+        "cases": 4492,
+        "deaths": 213,
+        "pre-death-reporting": false
+      },
+      "relationships": {
+        "county": {
+          "links": {
+            "related": "https://corona-api.jpteti.com/counties/3.json"
+          },
+          "data": {
+            "type": "counties",
+            "id": "3"
+          }
+        }
+      }
     }
   ]
 }

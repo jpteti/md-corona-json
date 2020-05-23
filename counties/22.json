@@ -5,7 +5,7 @@
     "attributes": {
       "name": "Washington",
       "population": 149180,
-      "current-cases": 338
+      "current-cases": 389
     },
     "relationships": {
       "reports": {
@@ -240,6 +240,26 @@
           {
             "type": "reports",
             "id": 1420
+          },
+          {
+            "type": "reports",
+            "id": 1444
+          },
+          {
+            "type": "reports",
+            "id": 1468
+          },
+          {
+            "type": "reports",
+            "id": 1492
+          },
+          {
+            "type": "reports",
+            "id": 1516
+          },
+          {
+            "type": "reports",
+            "id": 1540
           }
         ]
       }
